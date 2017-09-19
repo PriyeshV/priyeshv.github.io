@@ -4,6 +4,7 @@ I'm in my third year of MS by Research Programme at the CSE Dept. of IIT Madras.
 
 # Resume 
 
-
-
-# <a href="https://goo.gl/9jWcbb">Google Scholar Page</a>
+# More Info
+<a href="priyeshv.github.io/resume.pdf">Resume</a>
+<a href="https://goo.gl/9jWcbb">Google Scholar Profile</a>
+<a href="https://goo.gl/7oApkS">LinkedIn Profile</a>
