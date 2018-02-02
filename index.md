@@ -8,6 +8,7 @@ I'm in my third year of MS by Research Programme at the CSE Dept. of IIT Madras.
 - CS6720: Data Mining 
 - CS6310: Artificial Neural Networks
 - CH5440: Multivariate Data Analysis
+- CS7011: Reinforcement Learning (Ongoing Jan'18)
 
 # More Info
 <a href="https://github.com/priyeshv">Github</a> <br>
