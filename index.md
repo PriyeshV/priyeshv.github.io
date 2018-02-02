@@ -11,6 +11,6 @@ I'm in my third year of MS by Research Programme at the CSE Dept. of IIT Madras.
 
 # More Info
 <a href="https://github.com/priyeshv">Github</a> <br>
-<a href="priyeshv.github.io/resume.pdf">Resume</a> <br>
+<a href="priyeshv.github.io/FullCV.pdf">Resume</a> <br>
 <a href="https://goo.gl/9jWcbb">Google Scholar Profile</a> <br>
 <a href="https://goo.gl/7oApkS">LinkedIn Profile</a>
