@@ -7,13 +7,13 @@ has been accepted for oral and poster presentation at the
 eighth workshop on Statistical relational learning for AI (StarAI) at IJCAI 2018.
  <a href="https://arxiv.org/abs/1805.12421">Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
-- Our work on `Fusion Graph Convolutional networks` has been accepted for Poster presentation at the 
+- Our work on `Fusion Graph Convolutional networks` has been accepted for poster presentation at the 
 fourteenth workshop on Mining and Learning with Graphs (MLG) at KDD 2018.
  <a href="https://arxiv.org/abs/1805.12528">Paper</a> | 
   <a href="https://github.com/PriyeshV/HOPF">Code</a>
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
-third indian workshop on machine learning.
+third indian workshop on machine learning (iWML 2018).
  
  
 # Courses
