@@ -26,7 +26,7 @@ third indian workshop on machine learning (iWML 2018).
 
 # More Info
 <a href="https://github.com/priyeshv">Github</a> <br>
-<a href="priyeshv.github.io/FullCV.pdf">Resume</a> <br>
+<a href="https://priyeshv.github.io/FullCV.pdf">Resume</a> <br>
 <a href="https://goo.gl/9jWcbb">Google Scholar Profile</a> <br>
 <a href="https://goo.gl/7oApkS">LinkedIn Profile</a>
 
