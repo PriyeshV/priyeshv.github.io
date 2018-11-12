@@ -1,5 +1,5 @@
 # About me
-I'm an MS Research scholar at the CSE Dept. of IIT Madras and a project associate at Robert Bosch Centre for Data science and AI. I work under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Dr. Balaraman Ravindran</a> in <a href="http://rise.cse.iitm.ac.in/rise1/index.html"> R.I.S.E Lab</a>. 
+I'm an MS Research scholar at the CSE Dept. of IIT Madras and a Project associate at Robert Bosch Centre for Data science and AI, IIT Madras. I work under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> in <a href="http://rise.cse.iitm.ac.in/rise1/index.html"> R.I.S.E Lab</a>. 
 My research interests lie in the broad areas of Machine learning and Complex Networks, especially in the intersection of both where I model learning on network problems with Deep Learning and Factorization approaches.
 Currently, I'm working on evaluating and building Graph Neural Networks for encoding structured information for NLP problems, specifically for Dialogue systems and abstractive summarization.  
  
