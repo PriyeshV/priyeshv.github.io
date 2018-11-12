@@ -4,18 +4,17 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 Currently, I'm working on evaluating and building Graph Neural Networks for encoding structured information for NLP problems, specifically for Dialogue systems and abstractive summarization.  
  
 # Recent
-- Our work on `Higher Order Propagation for Deep Collective Classification` 
-has been accepted for oral and poster presentation at the 
-eighth workshop on Statistical relational learning for AI (StarAI), IJCAI 2018.
- <a href="https://arxiv.org/abs/1805.12421">Paper</a> | 
- <a href="https://github.com/PriyeshV/HOPF">Code</a>
-- Our work on `Fusion Graph Convolutional networks` has been accepted for poster presentation at the 
-fourteenth workshop on Mining and Learning with Graphs (MLG), KDD 2018.
- <a href="https://arxiv.org/abs/1805.12528">Paper</a> | 
-  <a href="https://github.com/PriyeshV/HOPF">Code</a>
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
 Relational Learning Workshop (R2L), NIPS 2018.
+- Our work on `Higher Order Propagation for Deep Collective Classification` 
+was presented in the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI 2018.
+ <a href="https://arxiv.org/abs/1805.12421">Paper</a> | 
+ <a href="https://github.com/PriyeshV/HOPF">Code</a>
+- Our work on `Fusion Graph Convolutional networks` was presented at the 
+fourteenth workshop on Mining and Learning with Graphs (MLG), KDD 2018.
+ <a href="https://arxiv.org/abs/1805.12528">Paper</a> | 
+  <a href="https://github.com/PriyeshV/HOPF">Code</a>
  
  
 # Courses
