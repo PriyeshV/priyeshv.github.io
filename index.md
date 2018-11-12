@@ -8,7 +8,7 @@ Currently, I'm working on evaluating and building Graph Neural Networks for enco
 has been accepted for oral and poster presentation at the 
 Relational Learning Workshop (R2L), NIPS 2018.
 - Our work on `Higher Order Propagation for Deep Collective Classification` 
-was presented in the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI 2018.
+was presented at the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI 2018.
  <a href="https://arxiv.org/abs/1805.12421">Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
 - Our work on `Fusion Graph Convolutional networks` was presented at the 
