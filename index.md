@@ -7,13 +7,14 @@ Currently, I'm working on evaluating and building Graph Neural Networks for enco
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
 Relational Learning Workshop (R2L), NIPS 2018.
+<a href="https://priyeshv.github.io/R2L_SSNMF.pdf">Paper</a> <br>
 - Our work on `Higher Order Propagation for Deep Collective Classification` 
 was presented at the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI 2018.
- <a href="https://arxiv.org/abs/1805.12421">Paper</a> | 
+ <a href="https://arxiv.org/abs/1805.12421">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
 - Our work on `Fusion Graph Convolutional networks` was presented at the 
 fourteenth workshop on Mining and Learning with Graphs (MLG), KDD 2018.
- <a href="https://arxiv.org/abs/1805.12528">Paper</a> | 
+ <a href="https://arxiv.org/abs/1805.12528">Full Paper</a> | 
   <a href="https://github.com/PriyeshV/HOPF">Code</a>
  
  
