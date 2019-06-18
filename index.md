@@ -1,9 +1,9 @@
 # About me
-I'm an MS Research scholar at the CSE Dept. of IIT Madras and a Project associate at Robert Bosch Centre for Data science and AI, IIT Madras. I work under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> in <a href="http://rise.cse.iitm.ac.in/rise1/index.html"> R.I.S.E Lab</a>. 
-My research interests lie in the broad areas of Machine learning and Complex Networks, especially in the intersection of both where I model learning on network problems with Deep Learning and Factorization approaches.
-Currently, I'm working on evaluating and building Graph Neural Networks for encoding structured information for NLP problems, specifically for Dialogue systems and abstractive summarization.  
+I'm a Project officer with the Robert Bosch Centre for Data Science and AI (RBCDSAI) at IIT Madras. I completed my MS (Research) from IIT Madras. I work with <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a>. 
+My research interests lie in the broad areas of Machine learning and Complex Networks, especially at their intersection where I model learning on network problems with Deep Learning and Factorization based approaches.  
  
 # Recent
+- Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`. <a href="https://arxiv.org/pdf/1905.00987.pdf">Paper</a> | <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a>
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
 Relational Learning Workshop (R2L), NIPS 2018.
