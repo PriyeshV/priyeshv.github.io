@@ -3,7 +3,9 @@ I'm a Project officer with the Robert Bosch Centre for Data Science and AI (RBCD
 My research interests lie in the broad areas of Machine learning and Complex Networks, especially at their intersection where I model learning on network problems with Deep Learning and Factorization based approaches.  
  
 # Recent
-- Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`. <a href="https://arxiv.org/pdf/1905.00987.pdf">Paper</a> | <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a>
+- Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`.
+ <a href="https://arxiv.org/pdf/1905.00987.pdf">Paper</a> | 
+ <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
 Relational Learning Workshop (R2L), NIPS 2018.
