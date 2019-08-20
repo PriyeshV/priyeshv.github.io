@@ -1,7 +1,7 @@
 # About me
 I'm a first-year PhD scholar at McGill University and <a href="https://mila.quebec/en/"> Montreal Institute for Learning Algorithms (MILA) </a> where <a href="https://williamleif.github.io/"> William Hamilton</a> advises me. My research interests lie in the broad areas of Machine learning and Complex Networks, especially at their intersection where I model learning on network problems with Deep Learning and Factorization based approaches.  
 
-I completed my MS by Research at the Indian Institute of Technology Madras (IIT M) under the guidance of <a href="https://www.cse.iitm.ac.in/~ravi/">Balaraman Ravindran</a>. My MS thesis is about <a href="https://priyeshv.github.io/MS_Thesis.pdf" 'Designing better Graph Convolutional Networks:Scaling Graph Propagation based Neural Networks for Collective Classification' </a>.
+I completed my MS by Research at the Indian Institute of Technology Madras (IIT M) under the guidance of <a href="https://www.cse.iitm.ac.in/~ravi/">Balaraman Ravindran</a>. My MS thesis is about <a href="https://priyeshv.github.io/MS_Thesis.pdf"> Designing better Graph Convolutional Networks:Scaling Graph Propagation based Neural Networks for Collective Classification</a>.
 
 I have a 5 years experience as a research staff in IIT Madras where I was associated with the <a href="https://rbc-dsai.iitm.ac.in/">Robert Bosch Centre for Data Sciences and AI (RBCDSAI)</a> and <a href="https://rise-iil.github.io/">RISE Interactive Intelligence Lab</a>.
 
