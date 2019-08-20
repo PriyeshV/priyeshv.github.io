@@ -1,8 +1,11 @@
 # About me
-I'm a Project officer with the Robert Bosch Centre for Data Science and AI (RBCDSAI) at IIT Madras. I completed my MS (Research) from IIT Madras. I work with <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a>. 
+I'm a first year PhD scholar at McGill University and Montreal Institute for Learning Algorithms (MILA) where i'm advised by <a href="https://williamleif.github.io/"> William Hamilton</a>. I completed by M.S by Research at Indian Institute of Technology Madras (IIT M) under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Balaraman Ravindran</a>. I have a 5 years experience as a research staff in IIT Madras where I was associated with the Robert Bosch Centre for Data Science and AI (RBCDSAI) and R.I.S.E Lab in IIT Madras. 
+
 My research interests lie in the broad areas of Machine learning and Complex Networks, especially at their intersection where I model learning on network problems with Deep Learning and Factorization based approaches.  
  
 # Recent
+- Check out our Arxiv Pre-print on `Learning policies for Social network discovery with Reinforcement learning`.
+ <a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> | 
 - Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`.
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
