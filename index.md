@@ -3,7 +3,7 @@ I'm a first-year PhD scholar at McGill University and <a href="https://mila.queb
 
 I completed my MS by Research at the Indian Institute of Technology Madras (IIT M) under the guidance of <a href="https://www.cse.iitm.ac.in/~ravi/">Balaraman Ravindran</a>. My MS thesis is titled <a href="https://priyeshv.github.io/MS_Thesis.pdf"> Designing better Graph Convolutional Networks: Scaling Graph Propagation based Neural Networks for Collective Classification</a>. 
 
-I also have a 5 years experience as a research staff in IIT Madras where I was associated with the <a href="https://rbc-dsai.iitm.ac.in/">Robert Bosch Centre for Data Sciences and AI (RBCDSAI)</a> and <a href="https://rise-iil.github.io/">RISE Interactive Intelligence Lab</a>. Before joining IIT Madras, I worked as a year-long research intern at Ericsson Research, Chennai. 
+I also have a 5 years experience as a research staff at IIT Madras where I was associated with the <a href="https://rbc-dsai.iitm.ac.in/">Robert Bosch Centre for Data Sciences and AI (RBCDSAI)</a> and <a href="https://rise-iil.github.io/">RISE Interactive Intelligence Lab</a>. Before joining IIT Madras, I worked as a year-long research intern at Ericsson Research, Chennai. 
 
  
 # Recent
