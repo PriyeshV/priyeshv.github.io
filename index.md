@@ -4,7 +4,7 @@ I'm a first-year PhD scholar at McGill University and <a href="https://mila.queb
 My research interests lie in the broad areas of Machine learning and Complex Networks, especially at their intersection where I model learning on network problems with Deep Learning and Factorization based approaches.  
  
 # Updates
-- An extended abstract of our work, `On Incorporating Structural Information to Improve Dialogue ResponseGeneration` has been accepted at EurNLP'19. 
+- An extended abstract of our work, `On Incorporating Structural Information to Improve Dialogue Response Generation` has been accepted at EurNLP'19. 
 - Check out our Arxiv Pre-print on `Learning policies for Social network discovery with Reinforcement learning`.
  <a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> | 
 - Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`.
