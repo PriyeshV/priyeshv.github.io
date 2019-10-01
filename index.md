@@ -8,7 +8,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 - Our work on `Learning policies for Social network discovery with Reinforcement learning` has been accepted at the Graph Representation Learning Workshop, NeurIPS'19.
  <a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> 
 - Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`.
- <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> 
+ <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
