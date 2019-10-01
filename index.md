@@ -5,21 +5,21 @@ My research interests lie in the broad areas of Machine learning and Complex Net
  
 # Updates
 - An extended abstract of our work, `On Incorporating Structural Information to Improve Dialogue Response Generation` has been accepted at EurNLP'19. 
-- Our work on `Learning policies for Social network discovery with Reinforcement learning` has been accepted at the Graph Representation Learning Workshop, NeurIPS 2019.
- <a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> | 
+- Our work on `Learning policies for Social network discovery with Reinforcement learning` has been accepted at the Graph Representation Learning Workshop, NeurIPS'19.
+ <a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> 
 - Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`.
- <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
+ <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
-Relational Learning Workshop (R2L), NeurIPS 2018.
+Relational Learning Workshop (R2L), NeurIPS'18.
 <a href="https://priyeshv.github.io/R2L_SSNMF.pdf">Paper</a> <br>
 - Our work on `Higher Order Propagation for Deep Collective Classification` 
-was presented at the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI 2018.
+was presented at the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI'18.
  <a href="https://arxiv.org/abs/1805.12421">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
 - Our work on `Fusion Graph Convolutional networks` was presented at the 
-fourteenth workshop on Mining and Learning with Graphs (MLG), KDD 2018.
+fourteenth workshop on Mining and Learning with Graphs (MLG), KDD'18.
  <a href="https://arxiv.org/abs/1805.12528">Full Paper</a> | 
   <a href="https://github.com/PriyeshV/HOPF">Code</a>
  
