@@ -10,7 +10,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 - Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing`.
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
- ------------
+ 
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF`
 has been accepted for oral and poster presentation at the 
 Relational Learning Workshop (R2L), NeurIPS'18.
@@ -28,7 +28,7 @@ fourteenth workshop on Mining and Learning with Graphs (MLG), KDD'18.
 # Courses
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
-------------
+
 - CS5011: Introduction to Machine Learning
 - CS6012: Social Network Analysis
 - CS7015: Deep Learning
