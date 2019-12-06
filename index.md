@@ -29,14 +29,16 @@ fourteenth workshop on Mining and Learning with Graphs (MLG), KDD'18.
  
  
 # Courses
+McGill University
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
 
+Indian Institute of Technology Madras
 - CS5011: Introduction to Machine Learning
 - CS6012: Social Network Analysis
 - CS7015: Deep Learning
 - CS6720: Data Mining 
-- CS6310: Artificial Neural Networks
+- CS6310: Artificial Neural Networks (DL for Computer Vision)
 - CH5440: Multivariate Data Analysis
 
 # More Info
