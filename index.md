@@ -6,7 +6,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
  
 # Updates
 2020
-- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, P Vijayan, S Parthasarathy, and B Ravindran will appear in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br>
+- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by<br/>A Mitra, `P Vijayan`, S Parthasarathy, and B Ravindran will appear in the Proceedings of **SIAM International Conference on Data Mining, SDM'20**. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br>
 
 2019
 - An extended abstract of our work, `On Incorporating Structural Information to Improve Dialogue Response Generation` by 
