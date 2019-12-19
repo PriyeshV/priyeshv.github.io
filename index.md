@@ -6,26 +6,23 @@ My research interests lie in the broad areas of Machine learning and Complex Net
  
 # Updates
 2020
-- `A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs` by `A Mitra, P Vijayan, S Parthasarathy, and B Ravindran` will appear in the Proceedings of SIAM International Conference on Data Mining, SDM'20. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br>
+- `A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs` by A Mitra, **P Vijayan**, S Parthasarathy, and B Ravindran will appear in the Proceedings of SIAM International Conference on Data Mining, SDM'20. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br>
 
 2019
-- An extended abstract of our work, `On Incorporating Structural Information to Improve Dialogue Response Generation` by *N Moghe, P Vijayan, B Ravindran, and M Khapra* was presented at EurNLP'19. 
-- Work on `Learning policies for Social network discovery with Reinforcement learning` by `H Kamarthi, P Vijayan, B Wilder, B Ravindran, M Tambe` was presented at the Graph Representation Learning Workshop, NeurIPS'19.
+- An extended abstract of our work, `On Incorporating Structural Information to Improve Dialogue Response Generation` by N Moghe, **P Vijayan**, B Ravindran, and M Khapra was presented at EurNLP'19. 
+- Work on `Learning policies for Social network discovery with Reinforcement learning` by H Kamarthi, **P Vijayan**, B Wilder, B Ravindran, M Tambe was presented at the Graph Representation Learning Workshop, NeurIPS'19.
  <a href="https://arxiv.org/pdf/1907.11625.pdf">Full Paper</a> 
-- Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing` by `S Gurukar*, P Vijayan*, A Srinivasan*, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy`
+- Check out our Arxiv Pre-print on `Network Representation Learning: Consolidation and Renewed Bearing` by S Gurukar*, A Srinivasan*, **P Vijayan***, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
  
 2018
-- Our work on `Learning semi-supervised cluster invariant node representations with NMF` by `A Mitra, P Vijayan, S Parthasarathy, and B Ravindran`
-was presented at the Relational Learning Workshop (R2L), NeurIPS'18.
+- Our work on `Learning semi-supervised cluster invariant node representations with NMF` by A Mitra, **P Vijayan**, S Parthasarathy, and B Ravindran was presented at the Relational Learning Workshop (R2L), NeurIPS'18.
 <a href="https://priyeshv.github.io/R2L_SSNMF.pdf">Paper</a> <br>
-- Our work on `Higher Order Propagation for Deep Collective Classification` by `P Vijayan, Y Chandak, M Khapra, and B Ravindran`
-was presented at the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI'18.
+- Our work on `Higher Order Propagation for Deep Collective Classification` by **P Vijayan**, Y Chandak, M Khapra, and B Ravindran was presented at the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI'18.
  <a href="https://arxiv.org/abs/1805.12421">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
-- Our work on `Fusion Graph Convolutional networks` by `P Vijayan, Y Chandak, M Khapra, and B Ravindran` was presented at the 
-fourteenth workshop on Mining and Learning with Graphs (MLG), KDD'18.
+- Our work on `Fusion Graph Convolutional networks` by **P Vijayan**, Y Chandak, M Khapra, and B Ravindran was presented at the fourteenth workshop on Mining and Learning with Graphs (MLG), KDD'18.
  <a href="https://arxiv.org/abs/1805.12528">Full Paper</a> | 
   <a href="https://github.com/PriyeshV/HOPF">Code</a>
  
