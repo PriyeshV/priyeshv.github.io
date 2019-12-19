@@ -12,7 +12,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
 N Moghe, P Vijayan, B Ravindran, and M Khapra was presented at `EurNLP'19`. 
 - Work on **Learning policies for Social network discovery with Reinforcement learning** by 
-H Kamarthi,<br/>P Vijayan, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.`
+H Kamarthi, P Vijayan, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.`
  <a href="https://arxiv.org/pdf/1907.11625.pdf">Full Paper</a> 
 - Check out our Arxiv Pre-print on **Network Representation Learning: Consolidation and Renewed Bearing** by 
 S Gurukar*, A Srinivasan*, P Vijayan*, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy
@@ -20,7 +20,7 @@ S Gurukar*, A Srinivasan*, P Vijayan*, G Bajaj, C Cai, M Keymanesh, S Kumar, P M
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
  
 2018
-- Our work on **Learning semi-supervised cluster invariant node representations with NMF** by A Mitra,<br/>P Vijayan, S Parthasarathy, and B Ravindran was presented at the `Relational Learning Workshop (R2L), NeurIPS'18.`
+- Our work on **Learning semi-supervised cluster invariant node representations with NMF** by A Mitra, P Vijayan, S Parthasarathy, and B Ravindran was presented at the `Relational Learning Workshop (R2L), NeurIPS'18.`
 - Our work on **Higher Order Propagation for Deep Collective Classification** by P Vijayan, Y Chandak, M Khapra, and B Ravindran was presented at the eighth workshop on `Statistical relational learning for AI (StarAI), IJCAI'18.`
  <a href="https://arxiv.org/abs/1805.12421">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
