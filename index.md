@@ -21,7 +21,7 @@ S Gurukar*, A Srinivasan*, **P Vijayan***, G Bajaj, C Cai, M Keymanesh, S Kumar,
  
 2018
 - Our work on `Learning semi-supervised cluster invariant node representations with NMF` by A Mitra,<br/>**P Vijayan**, S Parthasarathy, and B Ravindran was presented at the Relational Learning Workshop (R2L), NeurIPS'18.
-<a href="https://priyeshv.github.io/R2L_SSNMF.pdf">Paper</a> <br>
+#<a href="https://priyeshv.github.io/R2L_SSNMF.pdf">Paper</a> <br>
 - Our work on `Higher Order Propagation for Deep Collective Classification` by **P Vijayan**, Y Chandak, M Khapra, and B Ravindran was presented at the eighth workshop on Statistical relational learning for AI (StarAI), IJCAI'18.
  <a href="https://arxiv.org/abs/1805.12421">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
