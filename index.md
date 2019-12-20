@@ -15,7 +15,7 @@ N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNL
 H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
  <a href="https://arxiv.org/pdf/1907.11625.pdf">Full Paper</a> 
 - Check out our Arxiv Pre-print on **Network Representation Learning: Consolidation and Renewed Bearing** by 
-S Gurukar&ast;, A Srinivasan&ast;, <ins>P Vijayan</ins>&ast;, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy
+S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
  
