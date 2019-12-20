@@ -6,11 +6,11 @@ My research interests lie in the broad areas of Machine learning and Complex Net
  
 # Updates
 2020
-- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, P Vijayan, S Parthasarathy, and B Ravindran will appear in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br>
+- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <u>P Vijayan</u>, S Parthasarathy, and B Ravindran will appear in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br>
 
 2019
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
-N Moghe, P Vijayan, B Ravindran, and M Khapra was presented at `EurNLP'19`. 
+N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19`. 
 - Our Work on **Learning policies for Social network discovery with Reinforcement learning** by 
 H Kamarthi, P Vijayan, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
  <a href="https://arxiv.org/pdf/1907.11625.pdf">Full Paper</a> 
