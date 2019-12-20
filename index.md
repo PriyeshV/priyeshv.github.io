@@ -12,7 +12,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
 N Moghe, P Vijayan, B Ravindran, and M Khapra was presented at `EurNLP'19`. 
 - Our Work on **Learning policies for Social network discovery with Reinforcement learning** by 
-H Kamarthi, P Vijayan,<br/>B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
+H Kamarthi, P Vijayan, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
  <a href="https://arxiv.org/pdf/1907.11625.pdf">Full Paper</a> 
 - Check out our Arxiv Pre-print on **Network Representation Learning: Consolidation and Renewed Bearing** by 
 S Gurukar*, A Srinivasan*, P Vijayan*, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy
