@@ -44,6 +44,10 @@ Indian Institute of Technology Madras
 - CS6310: Artificial Neural Networks (DL for Computer Vision)
 - CH5440: Multivariate Data Analysis
 
+# Teaching Assistant
+- COMP767-001: <a href="https://cs.mcgill.ca/~wlh/comp766/">Graph Representation Learning</a> (Winter'20) 
+
+
 # More Info
 <a href="https://github.com/priyeshv">Github</a> <br>
 <a href="https://priyeshv.github.io/Full_CV.pdf">Resume</a> <br>
