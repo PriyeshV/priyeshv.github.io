@@ -6,7 +6,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
  
 # Updates
 2020
-- Our work on **Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe will appear in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20`.  
+- Our work on **Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe will appear in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20`. <a href="https://arxiv.org/pdf/1907.11625.pdf">Full Paper</a>  <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
 - Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran will appear in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br>
 
 2019
@@ -14,7 +14,6 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19`. 
 - Our Work on **Learning policies for Social network discovery with Reinforcement learning** by 
 H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
- <a href="https://arxiv.org/pdf/1907.11625.pdf">Full Paper</a> 
 - Check out our Arxiv Pre-print on **Network Representation Learning: Consolidation and Renewed Bearing** by 
 S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
