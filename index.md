@@ -32,7 +32,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
  
 # Courses
 McGill University
-- COMP767-001: Reinforcement Learning (on-going)
+- COMP767-001: Reinforcement Learning
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
 
