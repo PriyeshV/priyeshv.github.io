@@ -6,8 +6,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
  
 # Updates
 2020
-- Check out our Arxiv Pre-print on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri. <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
-<a href="https://ma8sa.github.io/temporal-MR-GCN/">Code</a> <br>
+- Check out our Arxiv Pre-print on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri. <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a>
 - Our work on **Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe will appear in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20`. 
 <a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> | 
 <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
