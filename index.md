@@ -11,7 +11,8 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
 - Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran will appear in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> | 
 <a href="https://priyeshv.github.io/Supplementary_USS_NMF.pdf">Supplement</a><br> 
-- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20`. <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | <a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
+- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20`. <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
+<a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
 
 2019
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
