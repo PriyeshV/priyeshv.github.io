@@ -9,8 +9,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 - Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe will appear in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20`. 
 <a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> | 
 <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
-- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran is available in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.55">Paper</a> | <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> | 
-<a href="https://priyeshv.github.io/Supplementary_USS_NMF.pdf">Supplement</a><br> 
+- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran is available in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.55">Paper</a> | <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br> 
 - Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20`. <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
 <a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
 
