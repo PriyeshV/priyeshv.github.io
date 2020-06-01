@@ -21,7 +21,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 
 2019
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
-N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19`. <a href="https://128.84.21.199/pdf/2005.14315.pdf">Full Paper</a> | <a href="https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf">Poster</a> |  | 
+N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19`. <a href="https://128.84.21.199/pdf/2005.14315.pdf">Full Paper</a> | 
 <a href="https://github.com/nikitacs16/horovod_gcn_pointer_generator">Code</a>
 - Our Work on **Learning policies for Social network discovery with Reinforcement learning** by 
 H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
