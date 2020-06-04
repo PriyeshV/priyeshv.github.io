@@ -7,7 +7,7 @@ My research interests lie in the broad areas of Machine learning and Complex Net
 # Updates
 2020
 - Our Work on **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
-N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://128.84.21.199/pdf/2005.14315.pdf">Full Paper</a> | 
+N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://arxiv.org/pdf/2005.14315.pdf">Full Paper</a> | 
 <a href="https://github.com/nikitacs16/horovod_gcn_pointer_generator">Code</a>
 - Check out our Arxiv Pre-print on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri.
  <a href="https://arxiv.org/pdf/2005.04437.pdf">Paper</a> | 
