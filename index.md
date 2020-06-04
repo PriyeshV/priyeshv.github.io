@@ -12,19 +12,19 @@ N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proc
 - Check out our Arxiv Pre-print on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri.
  <a href="https://arxiv.org/pdf/2005.04437.pdf">Paper</a> | 
  <a href="https://github.com/ma8sa/Undersrtanding-Dynamic-Scenes-using-MR-GCN">Code</a> <br>
-- Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe will appear in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20`. [Nominated for Best Paper Award] 
+- Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe will appear in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20.` [Nominated for Best Paper Award] 
 <a href="https://dl.acm.org/doi/pdf/10.5555/3398761.3398831">Paper</a> | 
 <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
-- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran is available in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. 
+- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran is available in the Proceedings of `SIAM International Conference on Data Mining, SDM'20.` 
 <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.55">Paper</a> | 
 <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> | 
 <a href="https://priyeshv.github.io/Supplementary_USS_NMF.pdf">Supplement</a> <br> 
-- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20`. <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
+- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20.` <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
 <a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
 
 2019
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
-N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19`. <a href="https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf">
+N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19.` <a href="https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf"> Poster </a>
 - Our Work on **Learning policies for Social network discovery with Reinforcement learning** by 
 H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
 - Check out our Arxiv Pre-print on **Network Representation Learning: Consolidation and Renewed Bearing** by 
