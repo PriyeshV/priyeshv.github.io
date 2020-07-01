@@ -6,12 +6,12 @@ My research interests lie in the broad areas of Machine learning and Complex Net
  
 # Updates
 2020
+- Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of the `International Conference on Robots and Systems, IROS'20.` 
+ <a href="https://arxiv.org/pdf/2005.04437.pdf">Paper</a> | 
+ <a href="https://github.com/ma8sa/Undersrtanding-Dynamic-Scenes-using-MR-GCN">Code</a> <br>
 - Our Work on **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
 N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://arxiv.org/pdf/2005.14315.pdf">Full Paper</a> | 
 <a href="https://github.com/nikitacs16/horovod_gcn_pointer_generator">Code</a>
-- Check out our Arxiv Pre-print on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of the `International Conference on Robots and Systems, IROS'20.` 
- <a href="https://arxiv.org/pdf/2005.04437.pdf">Paper</a> | 
- <a href="https://github.com/ma8sa/Undersrtanding-Dynamic-Scenes-using-MR-GCN">Code</a> <br>
 - Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe is available in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20.` [Nominated for Best Paper Award] 
 <a href="https://dl.acm.org/doi/pdf/10.5555/3398761.3398831">Paper</a> | 
 <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
