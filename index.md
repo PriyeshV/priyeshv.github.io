@@ -7,6 +7,7 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
 2020
 - Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of the `International Conference on Intelligent Robots and Systems, IROS'20.` 
  <a href="https://arxiv.org/pdf/2005.04437.pdf">Paper</a> | 
+ <a href="https://youtu.be/TT4J-uH4xqI">Video</a>
  <a href="https://github.com/ma8sa/Undersrtanding-Dynamic-Scenes-using-MR-GCN">Code</a> <br>
 - Our Work on **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
 N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://www.aclweb.org/anthology/2020.nlp4convai-1.2.pdf">Paper</a> | 
