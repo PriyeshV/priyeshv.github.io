@@ -57,6 +57,7 @@ Indian Institute of Technology Madras
 - CH5440: Multivariate Data Analysis
 
 # Teaching Assistant
+<!-- - COMP598-001: <a href="http://derekruths.com/en/comp-598-fall-2020/">Introduction to Data Science</a> (Fall'20)  -->
 - COMP767-001: <a href="https://cs.mcgill.ca/~wlh/comp766/">Graph Representation Learning</a> (Winter'20) 
 
 
