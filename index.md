@@ -44,6 +44,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
  
 # Courses
 McGill University
+- COMP599-001: Statistical Learning Theory (On-going)
 - COMP767-001: Reinforcement Learning
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
@@ -57,7 +58,7 @@ Indian Institute of Technology Madras
 - CH5440: Multivariate Data Analysis
 
 # Teaching Assistant
-<!-- - COMP598-001: <a href="http://derekruths.com/en/comp-598-fall-2020/">Introduction to Data Science</a> (Fall'20)  -->
+- COMP598-001: <a href="http://derekruths.com/en/comp-598-fall-2020/">Introduction to Data Science</a> (Fall'20) (On-going)
 - COMP767-001: <a href="https://cs.mcgill.ca/~wlh/comp766/">Graph Representation Learning</a> (Winter'20) 
 
 
