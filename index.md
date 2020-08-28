@@ -54,7 +54,7 @@ Indian Institute of Technology Madras
 - CS6012: Social Network Analysis
 - CS7015: Deep Learning
 - CS6720: Data Mining 
-- CS6310: Artificial Neural Networks (DL for Computer Vision)
+- CS6310: Deep Learning for Computer Vision
 - CH5440: Multivariate Data Analysis
 
 # Teaching Assistant
