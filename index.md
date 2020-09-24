@@ -1,25 +1,34 @@
 # About me
-I'm a first-year PhD scholar at <a href="https://www.cs.mcgill.ca/"> McGill University </a> and <a href="https://mila.quebec/en/"> Mila - Quebec AI Institute</a> where <a href="https://www.cs.mcgill.ca/~wlh"> Prof. William Hamilton</a> advises me. I completed my M.S by Research (<a href="https://priyeshv.github.io/MS_Thesis.pdf">Thesis</a>) at the Indian Institute of Technology Madras (IIT M) under the guidance of <a href="https://www.cse.iitm.ac.in/~ravi/">Prof. Balaraman Ravindran</a>. I have a 5 years experience as a research staff working at IIT Madras where I was associated with the <a href="https://rbc-dsai.iitm.ac.in/">Robert Bosch Centre for Data Sciences and AI (RBCDSAI)</a> and <a href="https://rise-iil.github.io/">RISE Interactive Intelligence Lab</a>.
+I'm a first-year Ph.D. scholar at <a href="https://www.cs.mcgill.ca/"> McGill University </a> and <a href="https://mila.quebec/en/"> Mila - Quebec AI Institute</a>, where <a href="https://www.cs.mcgill.ca/~wlh"> Prof. William Hamilton</a> advises me. I completed my M.S by Research (<a href="https://priyeshv.github.io/MS_THESIS.pdf">Thesis</a>) at the Indian Institute of Technology Madras (IIT M) under the guidance of <a href="https://www.cse.iitm.ac.in/~ravi/">Prof. Balaraman Ravindran</a>. I have 5 years of experience as a research staff working at IIT Madras, where I was associated with the <a href="https://rbcdsai.iitm.ac.in/">Robert Bosch Centre for Data Sciences and AI (RBCDSAI)</a> and <a href="https://rise-iil.github.io/">RISE Interactive Intelligence Lab</a>.
 
-
-My research interests lie in the broad areas of Machine learning and Complex Networks, especially at their intersection where I model learning on network problems with Deep Learning and Factorization based approaches.  
+My research interests lie in the broad areas of Machine Learning and Complex Networks, especially at their intersection, where I design Deep Neural Network models for relational representation and reasoning tasks in irregularly structured domains.
  
 # Updates
 2020
-- Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe will appear in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20`. 
-<a href="https://arxiv.org/pdf/1907.11625.pdf">Paper</a> | 
+- Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of the `International Conference on Intelligent Robots and Systems, IROS'20.` 
+ <a href="https://arxiv.org/pdf/2005.04437.pdf">Paper</a> | 
+ <a href="https://youtu.be/TT4J-uH4xqI">Video</a> | 
+ <a href="https://github.com/ma8sa/Undersrtanding-Dynamic-Scenes-using-MR-GCN">Code</a> <br>
+- Our Work on **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
+N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://www.aclweb.org/anthology/2020.nlp4convai-1.2.pdf">Paper</a> | 
+<a href="https://github.com/nikitacs16/horovod_gcn_pointer_generator">Code</a>
+- Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe is available in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20.` [Nominated for Best Paper Award] 
+<a href="https://dl.acm.org/doi/pdf/10.5555/3398761.3398831">Paper</a> | 
 <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
-- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran is available in the Proceedings of `SIAM International Conference on Data Mining, SDM'20`. <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.55">Paper</a | <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> <br> 
-- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20`. <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
+- Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran is available in the Proceedings of `SIAM International Conference on Data Mining, SDM'20.` 
+<a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.55">Paper</a> | 
+<a href="https://github.com/sonaidgr8/USS_NMF">Code</a> | 
+<a href="https://priyeshv.github.io/Supplementary_USS_NMF.pdf">Supplement</a> <br> 
+- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20.` <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
 <a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
 
 2019
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
-N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19`. 
+N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19.` <a href="https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf"> Poster </a>
 - Our Work on **Learning policies for Social network discovery with Reinforcement learning** by 
 H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, M Tambe was presented at the `Graph Representation Learning Workshop, NeurIPS'19.` 
 - Check out our Arxiv Pre-print on **Network Representation Learning: Consolidation and Renewed Bearing** by 
-S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy
+S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy.
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
  
@@ -35,6 +44,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
  
 # Courses
 McGill University
+- COMP599-001: Statistical Learning Theory (On-going)
 - COMP767-001: Reinforcement Learning
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
@@ -44,16 +54,17 @@ Indian Institute of Technology Madras
 - CS6012: Social Network Analysis
 - CS7015: Deep Learning
 - CS6720: Data Mining 
-- CS6310: Artificial Neural Networks (DL for Computer Vision)
+- CS6310: Deep Learning for Computer Vision
 - CH5440: Multivariate Data Analysis
 
 # Teaching Assistant
+- COMP598-001: <a href="http://derekruths.com/en/comp-598-fall-2020/">Introduction to Data Science</a> (Fall'20) (On-going)
 - COMP767-001: <a href="https://cs.mcgill.ca/~wlh/comp766/">Graph Representation Learning</a> (Winter'20) 
 
 
 # More Info
 <a href="https://github.com/priyeshv">Github</a> <br>
-<a href="https://priyeshv.github.io/CV.pdf">Resume</a> <br>
-<a href="https://goo.gl/9jWcbb">Google Scholar Profile</a> <br>
-<a href="https://goo.gl/7oApkS">LinkedIn Profile</a>
-
+<a href="https://priyeshv.github.io/Full_CV.pdf">CV/Resume</a> <br>
+<a href="https://goo.gl/9jWcbb">Google Scholar</a> <br>
+<a href="https://goo.gl/7oApkS">LinkedIn</a> <br>
+<a href="https://twitter.com/vijayan_priyesh">Twitter</a>
