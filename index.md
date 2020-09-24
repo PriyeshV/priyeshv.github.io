@@ -53,7 +53,7 @@ Indian Institute of Technology Madras
 
 # More Info
 <a href="https://github.com/priyeshv">Github</a> <br>
-<a href="https://priyeshv.github.io/Full_CV.pdf">Resume</a> <br>
+<a href="https://priyeshv.github.io/CV.pdf">Resume</a> <br>
 <a href="https://goo.gl/9jWcbb">Google Scholar Profile</a> <br>
 <a href="https://goo.gl/7oApkS">LinkedIn Profile</a>
 
