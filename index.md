@@ -12,7 +12,7 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
 - Our Work on **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
 N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://www.aclweb.org/anthology/2020.nlp4convai-1.2.pdf">Paper</a> | 
 <a href="https://github.com/nikitacs16/horovod_gcn_pointer_generator">Code</a>
-- Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe is available in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20.` <div class="text-red mb-2">[**Nominated for Best Paper Award**] </div>
+- Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe is available in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20.` [**Nominated for Best Paper Award**]
 <a href="https://dl.acm.org/doi/pdf/10.5555/3398761.3398831">Paper</a> | 
 <a href="https://github.com/kage08/graph_sample_rl">Code</a> <br>
 - Our work on **A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran is available in the Proceedings of `SIAM International Conference on Data Mining, SDM'20.` 
