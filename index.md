@@ -45,7 +45,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 - Program Commitee Member: SIAM SDM (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
 - Reviewer: ICLR (2021, 2020), NAACL (2021), DMKD Journal (2019), ACL(2018)
  
- # Teaching Assistant
+# Teaching Assistant
 - COMP596-001: <a href="http://www.reirab.com/comp596.html">Network Science</a> (Fall'20)
 - COMP598-001: <a href="http://derekruths.com/en/comp-598-fall-2020/">Introduction to Data Science</a> (Fall'20)
 - COMP767-001: <a href="https://cs.mcgill.ca/~wlh/comp766/">Graph Representation Learning</a> (Winter'20) 
