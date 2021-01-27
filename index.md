@@ -55,6 +55,7 @@ McGill University
 - COMP767-001: Reinforcement Learning
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
+- IFT 6085: Theoretical principles for deep learning (@UoMontreal)
 
 Indian Institute of Technology Madras
 - CS5011: Introduction to Machine Learning
