@@ -4,13 +4,16 @@ I'm a second-year Ph.D. scholar at <a href="https://www.cs.mcgill.ca/"> McGill U
 My research interests lie in the broad areas of Machine Learning and Complex Networks, especially at their intersection, where I design Deep Neural Network models for relational representation and reasoning tasks in irregularly structured domains.
  
 # Updates
+2021
+- Our work on **EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks** by D Sandfelder, <ins>P Vijayan</ins> and W L Hamilton will appear in the Proceedings of the `International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21.` 
+
 2020
-- Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of the `International Conference on Intelligent Robots and Systems, IROS'20.` 
+- Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri is available in the Proceedings of the `International Conference on Intelligent Robots and Systems, IROS'20.` 
  <a href="https://arxiv.org/pdf/2005.04437.pdf">Paper</a> | 
  <a href="https://youtu.be/TT4J-uH4xqI">Video</a> | 
  <a href="https://github.com/ma8sa/Undersrtanding-Dynamic-Scenes-using-MR-GCN">Code</a> <br>
 - Our Work on **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
-N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://www.aclweb.org/anthology/2020.nlp4convai-1.2.pdf">Paper</a> | 
+N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra is available in the Proceedings of `NLP for Conversational AI workshop, ACL'20.`<a href="https://www.aclweb.org/anthology/2020.nlp4convai-1.2.pdf">Paper</a> | 
 <a href="https://github.com/nikitacs16/horovod_gcn_pointer_generator">Code</a>
 - Our work on **Influence Maximization in Unknown Social Networks: Learning Policies for Effective Graph Sampling** by H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, and M Tambe is available in the Proceedings of the `International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20.` [**Nominated for Best Paper Award**]
 <a href="https://dl.acm.org/doi/pdf/10.5555/3398761.3398831">Paper</a> | 
@@ -21,7 +24,7 @@ N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra will appear in the Proc
 <a href="https://priyeshv.github.io/Supplementary_USS_NMF.pdf">Supplement</a> <br> 
 - Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20.` <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
 <a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
-
+ <!--
 2019
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
 N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19.` <a href="https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf"> Poster </a>
@@ -31,7 +34,7 @@ H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, M Tambe was presented a
 S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy.
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
- 
+
 2018
 - Our work on **Learning semi-supervised cluster invariant node representations with NMF** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran was presented at the `Relational Learning Workshop (R2L), NeurIPS'18.`
 - Our work on **Higher Order Propagation for Deep Collective Classification** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran was presented at the eighth workshop on `Statistical relational learning for AI (StarAI), IJCAI'18.`
@@ -40,7 +43,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 - Our work on **Fusion Graph Convolutional networks** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran was presented at the `14th workshop on Mining and Learning with Graphs (MLG), KDD'18.`
  <a href="https://arxiv.org/abs/1805.12528">Full Paper</a> | 
   <a href="https://github.com/PriyeshV/HOPF">Code</a>
-
+-->
 # Service
 - Program Commitee Member: SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
 - Reviewer: ICLR (2021, 2020), DMKD Journal (2019), ACL(2018)
@@ -52,10 +55,10 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
  
 # Courses
 McGill University
+- IFT 6085: Theoretical principles for deep learning (@UoMontreal) - Ongoing!
 - COMP767-001: Reinforcement Learning
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
-- IFT 6085: Theoretical principles for deep learning (@UoMontreal)
 
 Indian Institute of Technology Madras
 - CS5011: Introduction to Machine Learning
