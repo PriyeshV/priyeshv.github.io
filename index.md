@@ -24,7 +24,8 @@ N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra is available in the Pro
 <a href="https://priyeshv.github.io/Supplementary_USS_NMF.pdf">Supplement</a> <br> 
 - Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20.` <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
 <a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
- <!--
+
+<!--
 2019
 - An extended abstract of our work, **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
 N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra was presented at `EurNLP'19.` <a href="https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf"> Poster </a>
@@ -34,7 +35,6 @@ H Kamarthi, <ins>P Vijayan</ins>, B Wilder, B Ravindran, M Tambe was presented a
 S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy.
  <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
-
 2018
 - Our work on **Learning semi-supervised cluster invariant node representations with NMF** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran was presented at the `Relational Learning Workshop (R2L), NeurIPS'18.`
 - Our work on **Higher Order Propagation for Deep Collective Classification** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran was presented at the eighth workshop on `Statistical relational learning for AI (StarAI), IJCAI'18.`
@@ -44,6 +44,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
  <a href="https://arxiv.org/abs/1805.12528">Full Paper</a> | 
   <a href="https://github.com/PriyeshV/HOPF">Code</a>
 -->
+
 # Service
 - Program Commitee Member: SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
 - Reviewer: ICLR (2021, 2020), DMKD Journal (2019), ACL(2018)
