@@ -47,7 +47,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 
 # Service
 - Program Commitee Member: SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
-- Reviewer: ICLR (2021, 2020), DMKD Journal (2019), ACL(2018)
+- Reviewer: NeurIPS (2021), ICLR (2021, 2020), DMKD Journal (2019), ACL(2018)
  
 # Teaching Assistant
 - COMP596-001: <a href="http://www.reirab.com/comp596.html">Network Science</a> (Fall'20)
