@@ -5,7 +5,8 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
  
 # Updates
 2021
-- Our work on **EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks** by D Sandfelder, <ins>P Vijayan</ins> and W L Hamilton will appear in the Proceedings of the `International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21.` 
+- Our work on **EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks** by D Sandfelder, <ins>P Vijayan</ins> and W L Hamilton will appear in the Proceedings of the `International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21.`
+ <a href="https://ieeexplore.ieee.org/document/9414015">Paper</a> 
 
 2020
 - Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri is available in the Proceedings of the `International Conference on Intelligent Robots and Systems, IROS'20.` 
