@@ -4,10 +4,6 @@ I'm a second-year Ph.D. scholar at <a href="https://www.cs.mcgill.ca/"> McGill U
 My research interests lie in the broad areas of Machine Learning and Complex Networks, especially at their intersection, where I design Deep Neural Network models for relational representation and reasoning tasks in irregularly structured domains.
  
 # Updates
-2021
-- Our work on **EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks** by D Sandfelder, <ins>P Vijayan</ins> and W L Hamilton is available in the Proceedings of the `International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21.`
- <a href="https://ieeexplore.ieee.org/document/9414015">Paper</a> 
-
 2020
 - Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri is available in the Proceedings of the `International Conference on Intelligent Robots and Systems, IROS'20.` 
  <a href="https://ras.papercept.net/proceedings/IROS20/1326.pdf">Paper</a> | 
