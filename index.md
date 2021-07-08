@@ -5,6 +5,7 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
  
 # Updates
 2021
+- Recognized as an Outstanding Reviewer at ICLR'2021
 - Our work on **Semi-Supervised Deep Learning for Multiplex Networks** by M Anasua, <ins>P Vijayan</ins>, R Sanasam, D Goswame, S Parthasarathy, and B Ravindran will appear in the Proceedings of the `ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD'21.`
 - Our work on **EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks** by D Sandfelder, <ins>P Vijayan</ins> and W L Hamilton is available in the Proceedings of the `International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21.`
  <a href="https://ieeexplore.ieee.org/document/9414015">Paper</a> 
@@ -49,7 +50,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 
 # Service
 - Program Commitee Member: EMNLP (2021), SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
-- Reviewer: NeurIPS (2021), ICLR (2021, 2020), DMKD Journal (2019), ACL(2018)
+- Reviewer: NeurIPS (2021), ICLR (2022, 2021, 2020), DMKD Journal (2019), ACL(2018)
  
 # Teaching Assistant
 - COMP596-001: <a href="http://www.reirab.com/comp596.html">Network Science</a> (Fall'20)
