@@ -6,7 +6,7 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
 # Updates
 2021
 - Recognized as an Outstanding Reviewer at ICLR'2021
-- Our work on **Semi-Supervised Deep Learning for Multiplex Networks** by M Anasua, <ins>P Vijayan</ins>, R Sanasam, D Goswame, S Parthasarathy, and B Ravindran is availabel in the Proceedings of the `ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD'21.` 
+- Our work on **Semi-Supervised Deep Learning for Multiplex Networks** by M Anasua, <ins>P Vijayan</ins>, R Sanasam, D Goswame, S Parthasarathy, and B Ravindran is available in the Proceedings of the `ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD'21.` 
  <a href="https://dl.acm.org/doi/10.1145/3447548.3467443">Paper</a> | 
  <a href="https://github.com/anasuamitra/ssdcm">Code</a> <br>
 - Our work on **Unsupervised Network Representation Learning and the Illusion of Progress** by 
