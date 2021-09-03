@@ -59,7 +59,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 - Reviewer: NeurIPS (2021), ICLR (2022, 2021, 2020), DMKD Journal (2019), ACL(2018)
  
 # Teaching Assistant
-- INF8953DE: <a href="https://chandar-lab.github.io/INF8953DE/"> Reinforcement Learning (Fall'21) </a>
+- INF8953DE: <a href="https://chandar-lab.github.io/INF8953DE/"> Reinforcement Learning</a> (Fall'21)
 - COMP596-001: <a href="http://www.reirab.com/comp596.html">Network Science</a> (Fall'20)
 - COMP598-001: <a href="http://derekruths.com/en/comp-598-fall-2020/">Introduction to Data Science</a> (Fall'20)
 - COMP767-001: <a href="https://cs.mcgill.ca/~wlh/comp766/">Graph Representation Learning</a> (Winter'20) 
