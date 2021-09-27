@@ -55,8 +55,8 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 -->
 
 # Service
-- Program Commitee Member: EMNLP (2021), SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
-- Reviewer: NeurIPS (2021), ICLR (2022, 2021, 2020), DMKD Journal (2019), ACL(2018)
+- Program Commitee Member: SIAM SDM (2021), EMNLP (2021), SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
+- Reviewer: ICLR (2022, 2021, 2020), NeurIPS (2021-Declined), DMKD Journal (2019), ACL(2018)
  
 # Teaching Assistant
 - INF8953DE: <a href="https://chandar-lab.github.io/INF8953DE/"> Reinforcement Learning</a> (Fall'21) [Lead TA]
