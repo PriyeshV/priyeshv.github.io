@@ -66,10 +66,10 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
  
 # Courses
 McGill University
+- COMP597-002: Automated Reasoning with Machine Learning (on-going)
 - COMP767-001: Reinforcement Learning
 - COMP550-001: Natural Language Processing
 - COMP767-002: Probabilistic Graphical Models
-- COMP597-002: Automated Reasoning with Machine Learning (Fall'21)
 
 Indian Institute of Technology Madras
 - CS5011: Introduction to Machine Learning
