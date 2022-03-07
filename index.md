@@ -6,7 +6,7 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
 # Updates
 2022
 - Our work on **Scaling Graph Propagation Kernels for Predictive Learning** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran is selected for publication in the Proceedings of the `Frontiers in Big Data, section Data Mining and Management (Frontiers 2022)`.
- <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.616617/abstract">Abstractr</a> | 
+ <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.616617/abstract">Abstract</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
 
 2021
@@ -61,7 +61,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 
 # Service
 - Program Commitee Member: SIAM SDM (2022), EMNLP (2021), SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
-- Reviewer: ICLR (2022, 2021, 2020), NeurIPS (2021-Declined), JDSA Jounral (2021), DMKD Journal (2019), ACL(2018)
+- Reviewer: ICLR (2022-Declined, 2021, 2020), NeurIPS (2021-Declined), JDSA Jounral (2021), DMKD Journal (2019), ACL(2018)
  
 # Teaching Assistant
 - INF8953DE: <a href="https://chandar-lab.github.io/INF8953DE/"> Reinforcement Learning</a> (Fall'21)
