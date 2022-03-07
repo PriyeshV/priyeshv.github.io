@@ -4,6 +4,11 @@ I'm a third-year Ph.D. student at <a href="https://www.cs.mcgill.ca/"> McGill Un
 My research interests lie in the broad areas of Machine Learning and Complex Networks, especially at their intersection, where I design Deep Neural Network models for relational representation and reasoning tasks in irregularly structured domains.
  
 # Updates
+2022
+- Our work on **Scaling Graph Propagation Kernels for Predictive Learning** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran is selected for publication in the Proceedings of the `Frontiers in Big Data, section Data Mining and Management (Frontiers 2022)`.
+ <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.616617/abstract">Abstractr</a> | 
+ <a href="https://github.com/PriyeshV/HOPF">Code</a>
+
 2021
 - Recognized as an Outstanding Reviewer at ICLR'2021
 - Our work on **Semi-Supervised Deep Learning for Multiplex Networks** by M Anasua, <ins>P Vijayan</ins>, R Sanasam, D Goswame, S Parthasarathy, and B Ravindran is available in the Proceedings of the `ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD'21.` 
