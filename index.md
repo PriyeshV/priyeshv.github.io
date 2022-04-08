@@ -5,8 +5,8 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
  
 # Updates
 2022
-- Our work on **Scaling Graph Propagation Kernels for Predictive Learning** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran is selected for publication in the Proceedings of the `Frontiers in Big Data, section Data Mining and Management (Frontiers 2022)`.
- <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.616617/abstract">Abstract</a> | 
+- Our work on **Scaling Graph Propagation Kernels for Predictive Learning** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran is available in the Proceedings of the `Frontiers in Big Data, section Data Mining and Management (Frontiers 2022)`.
+ <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.616617/full">Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
 
 2021
