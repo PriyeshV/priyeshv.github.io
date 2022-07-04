@@ -5,6 +5,10 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
  
 # Updates
 2022
+- Our work on **Benchmarking and Analysing Unsupervised Network Representation Learning and the Illusion of Progress** by 
+S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel is available in the Proceedings of `Transactions on Machine Learning Research`
+ <a href="https://openreview.net/pdf?id=GvF9ktXI1V">Full Paper</a> | 
+ <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
 - Our work on **Scaling Graph Propagation Kernels for Predictive Learning** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, S Parthasarathy, and B Ravindran is available in the Proceedings of the `Frontiers in Big Data, section Data Mining and Management (Frontiers 2022)`.
  <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.616617">Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
