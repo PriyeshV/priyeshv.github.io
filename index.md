@@ -19,9 +19,7 @@ S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasar
  <a href="https://dl.acm.org/doi/10.1145/3447548.3467443">Paper</a> | 
  <a href="https://github.com/anasuamitra/ssdcm">Code</a> <br>
 - Our work on **Unsupervised Network Representation Learning and the Illusion of Progress** by 
-S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel will be presentated at the `KDD deep learning day, KDD'21.`
- <a href="https://arxiv.org/pdf/1905.00987.pdf">Full Paper</a> | 
- <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
+S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel was presentated at the `KDD deep learning day, KDD'21.`
 - Our work on **EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks** by D Sandfelder, <ins>P Vijayan</ins> and W L Hamilton is available in the Proceedings of the `International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21.`
  <a href="https://ieeexplore.ieee.org/document/9414015">Paper</a> 
 
@@ -40,7 +38,7 @@ N Moghe, <ins>P Vijayan</ins>, B Ravindran, and M Khapra is available in the Pro
 <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.55">Paper</a> | 
 <a href="https://github.com/sonaidgr8/USS_NMF">Code</a> | 
 <a href="https://priyeshv.github.io/Supplementary_USS_NMF.pdf">Supplement</a> <br> 
-- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri will appear in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20.` <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
+- Our work on **Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri is available in the Proceedings of `IEEE Intelligent Vehicles Symposium, IV'20.` <a href="https://arxiv.org/pdf/2002.00786.pdf">Paper</a> | 
 <a href="https://ma8sa.github.io/temporal-MR-GCN">Code</a>
 
 <!--
