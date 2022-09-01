@@ -5,7 +5,7 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
  
 # Updates
 2022
-- Our work on **Revisiting Link Prediction on Hetereogeneous Graphs a Multi-view Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is accepted for publication at the `IEEE International Conference on Data Mining, ICDM'22.` 
+- Our work on **Revisiting Link Prediction on Hetereogeneous Graphs with a Multi-View Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is accepted for publication at the `IEEE International Conference on Data Mining, ICDM'22.` 
 - Our work on **Benchmarking and Analysing Unsupervised Network Representation Learning and the Illusion of Progress** by 
 S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel is available in the Proceedings of `Transactions on Machine Learning Research`
  <a href="https://openreview.net/pdf?id=GvF9ktXI1V">Full Paper</a> | 
