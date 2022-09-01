@@ -5,6 +5,7 @@ My research interests lie in the broad areas of Machine Learning and Complex Net
  
 # Updates
 2022
+- Our work on **Revisiting Link Prediction on Hetereogeneous Graphs a Multi-view Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is accepted for publication at the `IEEE International Conference on Data Mining, ICDM'22.` 
 - Our work on **Benchmarking and Analysing Unsupervised Network Representation Learning and the Illusion of Progress** by 
 S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel is available in the Proceedings of `Transactions on Machine Learning Research`
  <a href="https://openreview.net/pdf?id=GvF9ktXI1V">Full Paper</a> | 
@@ -15,7 +16,7 @@ S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasar
 
 2021
 - Recognized as an Outstanding Reviewer at ICLR'2021
-- Our work on **Semi-Supervised Deep Learning for Multiplex Networks** by M Anasua, <ins>P Vijayan</ins>, R Sanasam, D Goswame, S Parthasarathy, and B Ravindran is available in the Proceedings of the `ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD'21.` 
+- Our work on **Semi-Supervised Deep Learning for Multiplex Networks** by M Anasua, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is available in the Proceedings of the `ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD'21.` 
  <a href="https://dl.acm.org/doi/10.1145/3447548.3467443">Paper</a> | 
  <a href="https://github.com/anasuamitra/ssdcm">Code</a> <br>
 - Our work on **Unsupervised Network Representation Learning and the Illusion of Progress** by 
