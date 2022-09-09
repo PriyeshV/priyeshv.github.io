@@ -1,8 +1,8 @@
 # About me
 I'm a third-year Ph.D. student at <a href="https://www.cs.mcgill.ca/"> McGill University </a> and <a href="https://mila.quebec/en/"> Mila - Quebec AI Institute</a>, where I'm supervised by <a href="https://mila.quebec/en/person/doina-precup/ "> Doina Precup</a>. I completed my M.S by Research (<a href="https://priyeshv.github.io/MS_THESIS.pdf">Thesis</a>) at the Indian Institute of Technology Madras (IIT M) under the guidance of <a href="https://www.cse.iitm.ac.in/~ravi/"> Balaraman Ravindran</a>. I have 5 years of experience as a research staff working at IIT Madras, where I was associated with the <a href="https://rbcdsai.iitm.ac.in/">Robert Bosch Centre for Data Sciences and AI (RBCDSAI)</a> and <a href="https://rise-iil.github.io/">RISE Interactive Intelligence Lab</a>.
 
-My research interests lie in the broad areas of Reinforcement Learning, Deep learning and Complex Networks, especially at their intersection, where I model (ir)regularly structured domains as Graphs and use Deep (Reinforcement) Learning for effective inference. 
- 
+My research interests lie in the broad areas of Reinforcement Learning, Deep Learning, and Complex Networks, especially at their intersection, where I model irregularly structured domains as Graphs and use Deep (Reinforcement) Learning for effective inference.
+
 # Updates
 2022
 - Our work on **Revisiting Link Prediction on Hetereogeneous Graphs with a Multi-View Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is accepted for publication at the `IEEE International Conference on Data Mining, ICDM'22.` 
