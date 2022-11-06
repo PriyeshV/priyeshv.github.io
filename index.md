@@ -26,7 +26,7 @@ S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasar
 
 2020
 - Our work on **Understanding Dynamic Scenes using Graph Convolution Networks** by S Mylavarapu, M Sandhu, <ins>P Vijayan</ins>, M Krishna, B Ravindran, and A Namboodiri is available in the Proceedings of the `International Conference on Intelligent Robots and Systems, IROS'20.` 
- <a href="https://ras.papercept.net/proceedings/IROS20/1326.pdf">Paper</a> | 
+ <a href="https://ras.papercept.net/images/temp/IROS/files/1326.pdf">Paper</a> | 
  <a href="https://youtu.be/TT4J-uH4xqI">Video</a> | 
  <a href="https://github.com/ma8sa/Undersrtanding-Dynamic-Scenes-using-MR-GCN">Code</a> <br>
 - Our Work on **On Incorporating Structural Information to Improve Dialogue Response Generation** by 
