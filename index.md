@@ -5,7 +5,7 @@ My research interests lie in the broad areas of Reinforcement Learning, Deep Lea
 
 # Updates
 2022
-- Our work on **Revisiting Link Prediction on Hetereogeneous Graphs with a Multi-View Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is accepted for publication at the `IEEE International Conference on Data Mining, ICDM'22.` 
+- Our work on **Revisiting Link Prediction on Hetereogeneous Graphs with a Multi-View Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is available in the Proceedings of the `IEEE International Conference on Data Mining, ICDM'22.` 
  <a href="https://ieeexplore.ieee.org/abstract/document/10027638">Paper</a> | 
  <a href="https://github.com/anasuamitra/mvhre">Code</a> <br>
 - Our work on **Benchmarking and Analysing Unsupervised Network Representation Learning and the Illusion of Progress** by 
