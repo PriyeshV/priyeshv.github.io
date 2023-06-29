@@ -5,7 +5,7 @@ My research interests lie in the broad areas of Reinforcement Learning, Deep Lea
 
 # Updates
 2022
-- Our work on **Revisiting Link Prediction on Hetereogeneous Graphs with a Multi-View Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is available in the Proceedings of the `IEEE International Conference on Data Mining, ICDM'22.` 
+- Our work on **Revisiting Link Prediction on Heterogeneous Graphs with a Multi-View Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is available in the Proceedings of the `IEEE International Conference on Data Mining, ICDM'22.` 
  <a href="https://ieeexplore.ieee.org/abstract/document/10027638">Paper</a> | 
  <a href="https://github.com/anasuamitra/mvhre">Code</a> <br>
 - Our work on **Benchmarking and Analysing Unsupervised Network Representation Learning and the Illusion of Progress** by 
@@ -22,7 +22,7 @@ S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasar
  <a href="https://dl.acm.org/doi/10.1145/3447548.3467443">Paper</a> | 
  <a href="https://github.com/anasuamitra/ssdcm">Code</a> <br>
 - Our work on **Unsupervised Network Representation Learning and the Illusion of Progress** by 
-S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel was presentated at the `KDD deep learning day, KDD'21.`
+S Gurukar<code>&ast;</code>, <ins>P Vijayan</ins><code>&ast;</code>, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel was presented at the `KDD deep learning day, KDD'21.`
 - Our work on **EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks** by D Sandfelder, <ins>P Vijayan</ins> and W L Hamilton is available in the Proceedings of the `International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21.`
  <a href="https://ieeexplore.ieee.org/document/9414015">Paper</a> 
 
@@ -56,7 +56,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
  <a href="https://github.com/PriyeshV/NRL_Benchmark">Code</a> <br>
 2018
 - Our work on **Learning semi-supervised cluster invariant node representations with NMF** by A Mitra, <ins>P Vijayan</ins>, S Parthasarathy, and B Ravindran was presented at the `Relational Learning Workshop (R2L), NeurIPS'18.`
-- Our work on **Higher Order Propagation for Deep Collective Classification** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran was presented at the eighth workshop on `Statistical relational learning for AI (StarAI), IJCAI'18.`
+- Our work on **Higher Order Propagation for Deep Collective Classification** by <ins>P Vijayan</ins>, Y Chandak, M Khapra and B Ravindran was presented at the eighth workshop on `Statistical relational learning for AI (StarAI), IJCAI'18.`
  <a href="https://arxiv.org/abs/1805.12421">Full Paper</a> | 
  <a href="https://github.com/PriyeshV/HOPF">Code</a>
 - Our work on **Fusion Graph Convolutional networks** by <ins>P Vijayan</ins>, Y Chandak, M Khapra, and B Ravindran was presented at the `14th workshop on Mining and Learning with Graphs (MLG), KDD'18.`
@@ -65,7 +65,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 -->
 
 # Service
-- Program Commitee Member: SIAM SDM (2022), EMNLP (2021), SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
+- Program Committee Member: SIAM SDM (2022), EMNLP (2021), SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
 - Reviewer: ICLR (2021, 2020), DMKD Journal (2019), ACL(2018)
  
 # Teaching Assistant
