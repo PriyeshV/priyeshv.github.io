@@ -6,7 +6,6 @@ My research interests lie in the broad areas of Reinforcement Learning, Deep Lea
 # Updates
 2026
 - Our work on **Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options** by <ins>P Vijayan</ins>, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz will be presented in the Workshop on Reinforcement Learning Beyond Rewards: Towards Scalable General-Purpose Agents, RLC'26.  <a href="">Paper</a> (Paper also under review in a conference)
-  
 
 2025
 - Our work on **Revisiting Laplacian Representations for Value Function Approximation in Deep RL** by <ins>P Vijayan</ins>, P Nouri, R Rishav, S Chandar, Y Chandak, M Reymond, S E Kahou, and D Precup was presented in the Inductive Biases in Reinforcement Learning Workshop, RLC'25.  <a href="https://openreview.net/pdf?id=fO7LZi5rqe">Paper</a> 
@@ -73,7 +72,7 @@ S Gurukar<code>&ast;</code>, A Srinivasan<code>&ast;</code>, <ins>P Vijayan</ins
 
 # Service
 - Program Committee Member: SIAM SDM (2022), EMNLP (2021), SIAM SDM (2021), NAACL-HLT (2021), GCLR Workshop AAAI (2021), ADCOM (2018), CODS-COMAD (2018)
-- Reviewer: ICLR (2023, 2021, 2020), LoG (2023), DMKD Journal (2019), ACL(2018)
+- Reviewer: NeurIPS (2026), ICLR (2023, 2021, 2020), LoG (2023), DMKD Journal (2019), ACL(2018)
  
 # Teaching Assistant
 - INF8953DE: <a href="https://chandar-lab.github.io/INF8953DE/"> Reinforcement Learning</a> (Fall'21)
