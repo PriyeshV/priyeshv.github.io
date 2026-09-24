@@ -5,10 +5,11 @@ My research interests lie in the broad areas of Reinforcement Learning, Deep Lea
 
 # Updates
 2026
-- Our work on **Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options** by <ins>P Vijayan</ins>, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz is selected for a spotlight presentation in the Workshop on Reinforcement Learning Beyond Rewards, RLC'26. <a href="https://openreview.net/pdf?id=Bn5TzXbC6s">Paper</a>
+- Our work on **Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options** by <ins>P Vijayan</ins>, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz is accepted at the `Fortieth Annual Conference on Neural Information Processing Systems`, NeurIPS'26. <a href="">Paper</a> | <a href="">Code</a>
+- Our work on **Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options** by <ins>P Vijayan</ins>, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz had a spotlight presentation in the `Workshop on Reinforcement Learning Beyond Rewards`, RLC'26. <a href="https://openreview.net/pdf?id=Bn5TzXbC6s">Paper</a>
 
 2025
-- Our work on **Revisiting Laplacian Representations for Value Function Approximation in Deep RL** by <ins>P Vijayan</ins>, P Nouri, R Rishav, S Chandar, Y Chandak, M Reymond, S E Kahou, and D Precup was presented in the Inductive Biases in Reinforcement Learning Workshop, RLC'25.  <a href="https://openreview.net/pdf?id=fO7LZi5rqe">Paper</a> 
+- Our work on **Revisiting Laplacian Representations for Value Function Approximation in Deep RL** by <ins>P Vijayan</ins>, P Nouri, R Rishav, S Chandar, Y Chandak, M Reymond, S E Kahou, and D Precup was presented in the `Inductive Biases in Reinforcement Learning Workshop`, RLC'25.  <a href="https://openreview.net/pdf?id=fO7LZi5rqe">Paper</a> 
   
 2022
 - Our work on **Revisiting Link Prediction on Heterogeneous Graphs with a Multi-View Perspective** by A Mitra, <ins>P Vijayan</ins>, R Sanasam, D Goswami, S Parthasarathy, and B Ravindran is available in the Proceedings of the `IEEE International Conference on Data Mining, ICDM'22.` 
