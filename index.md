@@ -5,7 +5,9 @@ My research interests lie in the broad areas of Reinforcement Learning, Deep Lea
 
 # Updates
 2026
-- Our work on **Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options** by <ins>P Vijayan</ins>, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz is accepted at the `Fortieth Annual Conference on Neural Information Processing Systems`, NeurIPS'26. <a href="">Paper</a> | <a href="">Code</a>
+- Our work on **Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options** by <ins>P Vijayan</ins>, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz is accepted at the `Fortieth Annual Conference on Neural Information Processing Systems, NeurIPS'26`.
+ <a href="">Paper</a> | 
+ <a href="">Code</a> <br>
 - Our work on **Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options** by <ins>P Vijayan</ins>, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz had a spotlight presentation in the `Workshop on Reinforcement Learning Beyond Rewards`, RLC'26. <a href="https://openreview.net/pdf?id=Bn5TzXbC6s">Paper</a>
 
 2025
