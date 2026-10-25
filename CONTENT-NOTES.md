@@ -62,3 +62,11 @@ The user subsequently confirmed JDSA reviewing in 2021; the teaching page now li
 ## About Me and research interests update
 
 About Me and Research Directions now use the user's supplied editorial text. The biography emphasizes reinforcement learning, representation learning, spectral representations, value approximation, and exploration. Broader interests cover LLMs and reasoning, AI for Science, and RL for foundation models, using forward-looking language without claiming established LLM results. The homepage and research page share `_includes/research-interests.html`. The old information-propagation/LLM-internals callouts were replaced. Third-party images and editorial commentary in the supplied response were not added to public page copy.
+
+## GitHub Pages missing-include repair
+
+The deployed repository did not contain `_includes/research-interests.html`, causing the Pages build to fail. The current homepage and research page now contain that section directly, removing this include dependency. Replace both `index.html` and `research.html` in the repository root. The existing standalone include may remain but is no longer required.
+
+## Research thread reorganization
+
+At the user's request, the homepage and research overview now organize established work as learning structure for reinforcement learning (value learning and exploration from Laplacian representations without a supplied graph), learning over graphs (including benchmarking), and applications of graph-based learning. Standalone research-interests sections were removed from both pages; broad interests remain in About Me. RL and applications project pages and publication associations were aligned with this organization. The evaluation detail page remains reachable within graph learning. The 2024 molecular-design preprint remains in the complete publication archive; it is not asserted to be graph-based work in the applications thread.
