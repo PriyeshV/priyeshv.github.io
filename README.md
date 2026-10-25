@@ -11,7 +11,7 @@ This is a content-led academic site. GitHub Pages builds Jekyll directly, so mai
 - `index.html`: introduction, selected publications, updates, contact.
 - `research.html`: research overview and emerging LLM interests.
 - `projects/`: four detailed research/project pages.
-- `publications.html`: searchable archive of 20 grouped records, including historical workshop and preprint versions. This is not a count of 20 distinct peer-reviewed papers.
+- `publications.html`: searchable archive of 17 grouped records, including historical workshop and preprint versions. This is not a count of 17 distinct peer-reviewed papers.
 - `teaching.html`: two-column teaching list, service, reviewer recognition.
 - `background.html`: education, experience, earlier projects, talks, patent, coursework.
 - `_data/publications.json`: the single publication source, loaded automatically by Jekyll.
@@ -100,3 +100,9 @@ The publication template highlights `P Vijayan` automatically without adding HTM
 Workshop occurrences render only their venue names. They do not render labels, titles, authors, PDFs, or code links, even when such metadata is retained in JSON. Main-paper links and standalone workshop-paper links remain available. The archive was reconciled against all 18 rows visible on the linked Google Scholar profile on 25 October 2026. Five missing entries were added: the 2024 protein-binder preprint, ASONAM 2014, IJSER 2012, the Incremental Knowledge Graphs course report, and the 2015 patent application. The archive also retains earlier preprint/workshop entries absent from the current Scholar listing. This produces 20 primary records, not 20 peer-reviewed papers.
 
 For an existing v2 site, replace `_data/publications.json`, `_includes/publication.html`, `publications.html`, and `_data/project-*.json`. Replace `scripts/preview.py` if using the Python preview. No CSS change is needed for this update. Documentation is updated in `README.md` and `CONTENT-NOTES.md`.
+
+## Version 4: author-confirmed consolidation
+
+The user confirmed that the 2018 NMF workshop paper is the same work as the SDM 2020 paper; it is now a venue-only occurrence under p12. The 2019 consolidation preprint is the same work as the TMLR paper and its separate archive entry is removed. The course project is removed from the publication archive and project publication lists. Prior descriptions of retaining those entries are superseded. There are now 17 primary entries. The AAMAS Best Paper nomination note has a dedicated `note_style: "award"` flag and is rendered in bold red (#b42318). Author highlights and venue-only workshop rendering are retained.
+
+To update a v3 site, replace `_data/publications.json`, `_data/project-*.json`, `_includes/publication.html`, `assets/style.css`, `publications.html`, and `projects/evaluation.html`. Replace `scripts/preview.py` if using the Python preview. The changed-files ZIP includes these plus updated documentation.

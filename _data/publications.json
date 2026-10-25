@@ -197,7 +197,8 @@
         "links": {},
         "label": "Earlier workshop presentation"
       }
-    ]
+    ],
+    "note_style": "award"
   },
   {
     "id": "p12",
@@ -211,7 +212,18 @@
       "Supplement": "https://priyeshv.github.io/Supplementary_USS_NMF.pdf"
     },
     "topic": "Graph learning",
-    "note": ""
+    "note": "",
+    "occurrences": [
+      {
+        "id": "p17",
+        "title": "Learning semi-supervised cluster invariant node representations with NMF",
+        "authors": "A Mitra, P Vijayan, S Parthasarathy, and B Ravindran",
+        "year": 2018,
+        "venue": "Relational Learning Workshop (R2L), NeurIPS'18",
+        "links": {},
+        "label": "Workshop presentation"
+      }
+    ]
   },
   {
     "id": "p13",
@@ -223,42 +235,6 @@
       "Paper": "https://arxiv.org/pdf/2002.00786.pdf",
       "Code": "https://ma8sa.github.io/temporal-MR-GCN"
     },
-    "topic": "Graph learning",
-    "note": ""
-  },
-  {
-    "id": "p16",
-    "title": "Network Representation Learning: Consolidation and Renewed Bearing",
-    "authors": "S Gurukar*, A Srinivasan*, P Vijayan*, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy",
-    "year": 2019,
-    "venue": "arXiv preprint (2019)",
-    "links": {
-      "Full Paper": "https://arxiv.org/pdf/1905.00987.pdf",
-      "Code": "https://github.com/PriyeshV/NRL_Benchmark"
-    },
-    "topic": "Evaluation",
-    "note": ""
-  },
-  {
-    "id": "p23",
-    "title": "Incremental Knowledge Graphs",
-    "authors": "Ashita Diwan, Nishant Mishra, Priyesh Vijayan",
-    "year": 2019,
-    "venue": "Course-project report · COMP 550: Natural Language Processing, McGill University",
-    "links": {
-      "Report": "https://mnishant2.github.io/files/transe.pdf",
-      "Project": "https://mnishant2.github.io/project/transe/"
-    },
-    "topic": "Graph learning",
-    "note": ""
-  },
-  {
-    "id": "p17",
-    "title": "Learning semi-supervised cluster invariant node representations with NMF",
-    "authors": "A Mitra, P Vijayan, S Parthasarathy, and B Ravindran",
-    "year": 2018,
-    "venue": "Relational Learning Workshop (R2L), NeurIPS'18",
-    "links": {},
     "topic": "Graph learning",
     "note": ""
   },

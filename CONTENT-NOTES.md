@@ -48,3 +48,7 @@ New records and verification sources:
 - p24: User categorization in communications networks, patent application US20150236910A1, published 20 August 2015. Inventor names and date from https://patents.google.com/patent/US20150236910A1/en . This was previously mentioned only on the background page; it is now also in the archive, explicitly labeled as an application.
 
 Workshop rendering now shows only venue names. All five grouped occurrences retain their reference metadata but do not display labels, repeated titles, authors, PDFs, or other links. This supersedes the earlier rendering descriptions above. No main NeurIPS 2026 paper link was available in the supplied JSON; it remains empty rather than substituting a workshop PDF. Standalone workshop papers retain their own authors and paper links.
+
+## Version 4: author-confirmed consolidation
+
+The user confirmed that the 2018 NMF workshop paper is the same work as the SDM 2020 paper; it is now a venue-only occurrence under p12. The 2019 consolidation preprint is the same work as the TMLR paper and its separate archive entry is removed. The course project is removed from the publication archive and project publication lists. Prior descriptions of retaining those entries are superseded. There are now 17 primary entries. The AAMAS Best Paper nomination note has a dedicated `note_style: "award"` flag and is rendered in bold red (#b42318). Author highlights and venue-only workshop rendering are retained.

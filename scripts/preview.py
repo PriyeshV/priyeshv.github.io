@@ -18,7 +18,8 @@ def authors(value):
     return escape(value).replace('Priyesh Vijayan', '<strong class="author-self">Priyesh Vijayan</strong>').replace('P Vijayan', '<strong class="author-self">P Vijayan</strong>')
 def publication(p):
     links = ''.join(f'<a href="{escape(v, quote=True)}">{escape(k)} ↗</a>' for k,v in p['links'].items())
-    note = f'<p class="pub-note">{escape(p["note"])}</p>' if p['note'] else ''
+    note_class = 'pub-note award-note' if p.get('note_style') == 'award' else 'pub-note'
+    note = f'<p class="{note_class}">{escape(p["note"])}</p>' if p['note'] else '' 
     versions = ''
     for v in p.get('occurrences', []):
         versions += f'<p class="venue occurrence" id="{v["id"]}">{escape(v["venue"])}</p>'
