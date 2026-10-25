@@ -52,3 +52,13 @@ Workshop rendering now shows only venue names. All five grouped occurrences reta
 ## Version 4: author-confirmed consolidation
 
 The user confirmed that the 2018 NMF workshop paper is the same work as the SDM 2020 paper; it is now a venue-only occurrence under p12. The 2019 consolidation preprint is the same work as the TMLR paper and its separate archive entry is removed. The course project is removed from the publication archive and project publication lists. Prior descriptions of retaining those entries are superseded. There are now 17 primary entries. The AAMAS Best Paper nomination note has a dedicated `note_style: "award"` flag and is rendered in bold red (#b42318). Author highlights and venue-only workshop rendering are retained.
+
+## Teaching page date update
+
+The teaching page now uses readable, indented HTML and itemized service lists. For conflicting service years, the supplied CV takes precedence: SDM 2021 and 2023; ACL 2019; ICLR 2020–2023. NAACL reviewing in 2021 is included from the CV. DMKD 2019 comes from the original website (the CV supplies no DMKD date). JDSA remains undated because neither source gives its reviewing years; the user has been asked for those dates. The earlier explanatory source-conflict paragraph is removed from public page copy.
+
+The user subsequently confirmed JDSA reviewing in 2021; the teaching page now lists that year.
+
+## About Me and research interests update
+
+About Me and Research Directions now use the user's supplied editorial text. The biography emphasizes reinforcement learning, representation learning, spectral representations, value approximation, and exploration. Broader interests cover LLMs and reasoning, AI for Science, and RL for foundation models, using forward-looking language without claiming established LLM results. The homepage and research page share `_includes/research-interests.html`. The old information-propagation/LLM-internals callouts were replaced. Third-party images and editorial commentary in the supplied response were not added to public page copy.

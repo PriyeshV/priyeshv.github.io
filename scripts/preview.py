@@ -27,6 +27,7 @@ def publication(p):
     return f'<article class="pub" id="{p["id"]}" data-year="{p["year"]}" data-topic="{escape(p["topic"], quote=True)}"><div class="pub-year">{p["year"]}</div><div><h3>{escape(p["title"])}</h3><p class="authors">{authors(p["authors"])}</p><p class="venue">{escape(p["venue"])}</p><div class="pub-links">{links}</div>{note}{versions}</div></article>'
 def include(match):
     name = match[1]
+    if name == 'research-interests': return (ROOT / '_includes/research-interests.html').read_text()
     ids = None
     if name == 'selected-publications': ids = ['p1','p2','p4','p5']
     if name.startswith('project-'): ids = json.loads((ROOT / '_data' / (name+'.json')).read_text())
@@ -37,6 +38,7 @@ for src in list(ROOT.glob('*.html')) + list((ROOT/'projects').glob('*.html')):
     for line in front.strip().splitlines():
         key, value = line.split(':',1)
         metadata[key] = value.strip().strip('"')
+    body = re.sub(r'{% comment %}.*?{% endcomment %}', '', body, flags=re.S)
     body = re.sub(r"{% assign topics =.*?{% endfor %}", ''.join(f'<option>{escape(t)}</option>' for t in sorted({p['topic'] for p in publications})), body)
     body = re.sub(r"{% assign years =.*?{% endfor %}", ''.join(f'<option>{y}</option>' for y in sorted({p['year'] for p in publications}, reverse=True)), body)
     body = body.replace('{{ site.data.publications | size }}', str(len(publications)))
