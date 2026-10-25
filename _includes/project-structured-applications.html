@@ -1,0 +1,1 @@
+{% assign ids = site.data["project-structured-applications"] %}{% for paper in site.data.publications %}{% if ids contains paper.id %}{% include publication.html %}{% endif %}{% endfor %}

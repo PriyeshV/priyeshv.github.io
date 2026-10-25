@@ -1,0 +1,457 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This is a modified ONE COLUMN version of
+% the following template:
+% 
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.1 (30/4/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{deedy-resume-openfont}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\namesection{Priyesh}{Vijayan}{
+% Research: Reinforcement Learning and Graph-based Learning\\
+Interests: Reinforcement Learning, Graph-based Representation Learning, and Large Language Models
+\href{https://priyeshv.github.io/} {Webpage: https://priyeshv.github.io} |
+\href{https://github.com/priyeshv} {Gitpage: https://github.com/priyeshv}\\
+\href{mailto:priyesh@hotmail.co.in}{Email: priyesh@hotmail.co.in} | Ph: +1-514-967-7402
+}
+
+% \href{https://in.linkedin.com/in/priyesh-vijayan-a9428057}{https://in.linkedin.com/in/priyesh-vijayan-a9428057}
+
+% \begin{center}
+% \huge\color{subheadings}\custombold{LIFELONG LEARNER}
+% \end{center}
+
+% \section{Research Interests}
+% \runsubsection{Deep learning \& Social Network analysis}
+%  \descript{\\Semi-supervised learning \textbullet{}  graph-based machine learning \textbullet{}  Network Representation learning \textbullet{} learning with class imbalance \textbullet{} multi-view learning \textbullet{} Active learning }
+
+
+\section{Education}
+\runsubsection{PhD in CS, McGill University \& \href{https://mila.quebec}MILA| 2019 - Present}
+% \descript{\\PhD in Computer Science | 2019}
+\location{\\Research Advisor: \href{https://mila.quebec/en/directory/doina-precup}{Doina Precup} and \href{https://mila.quebec/en/directory/samira-ebrahimi-kahou}{Samira E Kahou}}
+\sectionsep
+\runsubsection{MS by Research (\href{https://priyeshv.github.io/MS_Thesis.pdf}{Thesis}) in CSE, Indian Institute of Technology Madras| 2015 - 2019}
+% \descript{\\MS by Research in Computer Science and Engineering | 2015 - 2018}
+% \location{Jan'15 - Jan'19 |\textbullet{} CGPA: 8.4 / 10}
+\location{\\Research Advisor: \href{http://www.cse.iitm.ac.in/~ravi/}{Balaraman Ravindran}}
+\sectionsep
+\runsubsection{BE in CSE, Anna University Chennai| 2009 - 2013}
+% \descript{\\B.E in Computer Science and Engineering | 2009 - 2013}
+% \descript{\\B.E in Computer Science and Engineering}
+% \location{Aug'09 - May'13 | CGPA: 7.29 / 10}
+% \sectionsep
+
+\section{Experience}
+\runsubsection{Robert Bosch Centre for Data Science and AI, Dept. of C.S.E, IIT Madras\\}
+\location{Project Officer: Feb'19 - June'19 \& Project associate: Aug'17 - Jan'19 | Supervisor: Prof. Balaraman Ravindran}
+% \location{ Dec 2017 - June 2019 | Supervisor: Prof. Balaraman Ravindran \& Prof. Mitesh Khapra}
+\location{Project: Network Representation Learning | An IITM-Intel Collaboration}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Built a Network Representation Learning toolkit for both attributed and non-attributed graphs.
+% \item Studied effective ways of incorporating linguistic structural priors for dialogue systems.
+% \item Built a reinforcement learning agent that learns transferable policies for social network discovery in an unknown network.
+\end{tightemize}
+% \runsubsection{KLA-Tencor, Chennai}
+% \descript{| Intern}
+% \location{ June 2016 – Dec 2016 | Supervisor: Mohan Mahadevan \& Balaraman Ravindran}
+% \location{Project: Defect identification in SEM images | An IITM-KLA Tencor Collaboration}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \begin{tightemize}
+% \item Designed CNNs and shared representation learning architectures for multi-modal defect classification.
+% \end{tightemize}
+% \sectionsep
+\runsubsection{R.I.S.E Lab, Dept. of C.S.E, IIT Madras\\}
+% \descript{| Project Associate }
+% \location{ July 2014 – May 2015 | Supervisor: \href{http://www.cse.iitm.ac.in/~ravi/}{Balaraman Ravindran}}
+\location{Project Associate: July'14 – Aug'17 | Supervisor: \href{http://www.cse.iitm.ac.in/~ravi/}{Balaraman Ravindran}}
+\location{Project: Wafer data inspection | An IITM-KLA Tencor Collaboration}
+\begin{tightemize}
+\item Worked on extreme multi-class class-imbalance classification problem to detect defects in semi-conductor wafers.
+\item Proposed multi-view semi-supervised and active learning strategies to overcome the limited labeled data setup.
+\item Designed CNNs based shared representation learning architectures to embed Optical and Electron-Microscope Images.
+\end{tightemize}
+% \sectionsep
+\runsubsection{Ericsson Research\\}
+% \descript{| Research Intern }
+\location{Research Intern: June'13 – June'14 | Supervisor: \href{https://in.linkedin.com/in/shivashankar-subramanian-95916714}{Shivashankar Subramanian}}
+\begin{tightemize}
+\item Worked on learning from heterogeneous data sources and built alarm prediction models for Telecom data.
+% \item Proposed a Co-Training based framework for multi-label learning in multi-relational networks with multiple attributes.
+\end{tightemize}
+% \sectionsep
+
+% \runsubsection{Global Operations Team | PayPal \\}
+% % \descript{| Intern}
+% \location{Intern: Dec'11| Supervisor:  Ms. Bhaduri Raju Naidu}
+% \begin{tightemize}
+% \item Developed a web application tool with J2EE and MYSQL for Resource mapping and Reporting 
+% \end{tightemize}
+% \sectionsep
+
+\section{Selected Publications}
+\location{\textbf{*} equal contribution}
+% \footnote{* equal contribution}
+\runsubsection{\href{https://openreview.net/pdf?id=Bn5TzXbC6s}{Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options}}
+\descript{The Fortieth Annual Conference on Neural Information Processing Systems, NeurIPS'26}
+% \descript{Reinforcement Learning Beyond Rewards Workshop, RLC'26 (spotlight)}
+\location{\underline{P Vijayan}, E C Gauthier, M Reymond, 
+\href{https://mila.quebec/en/directory/sarath-chandar}{S Chandar}, 
+\href{https://mila.quebec/en/directory/doina-precup}{D Precup}, \& \href{https://mila.quebec/fr/annuaire/isabeau-premont-schwarz}{I P Schwarz}}
+\sectionsep
+
+\runsubsection{\href{https://openreview.net/pdf?id=fO7LZi5rqe}{Revisiting Laplacian Representations for Value Function Approximation in Deep RL}}
+\descript{Inductive Biases in Reinforcement Learning Workshop, RLC'25}
+\location{\underline{P Vijayan}, P Nouri, R Rishav, 
+\href{https://mila.quebec/en/directory/sarath-chandar}{S Chandar}
+Y Chandak, M Reymond, 
+\href{https://mila.quebec/en/directory/samira-ebrahimi-kahou}{S E Kahou},
+\& \href{https://mila.quebec/en/directory/doina-precup}{D Precup}}
+\sectionsep
+
+\runsubsection{\href{https://dl.acm.org/doi/10.1145/3447548.3467443}{Revisiting Link Prediction on Heterogeneous Graphs with a Multi-View Perspective}} 
+\descript{IEEE International Conference on Data Mining, ICDM'22} 
+\location{A Mitra, \underline{P Vijayan}, R Sanam, D Goswami, 
+\href{http://web.cse.ohio-state.edu/~parthasarathy.2/}{S Parthasarathy} \& \href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran}}
+\sectionsep
+
+
+\runsubsection{\href{https://openreview.net/forum?id=GvF9ktXI1V}{Benchmarking and Analysing Unsupervised Network Representation Learning and the Illusion of Progress}}
+\descript{Transactions on Machine Learning Research}
+\location{\underline{P Vijayan}*, \href{http://web.cse.ohio-state.edu/~gurukar.1/}{S Gurukar}*,  A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, \href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran} \&  \href{http://web.cse.ohio-state.edu/~parthasarathy.2/}{S Parthasarathy}}
+\sectionsep
+
+\runsubsection{\href{https://www.frontiersin.org/articles/10.3389/fdata.2022.616617/full}{Scaling Graph Propagation Kernels for Predictive Learning}\\}
+\descript{Frontiers in Big Data, section Data Mining and Management, Frontiers 2022}
+\location{\underline{P Vijayan}, Y Chandak, \href{https://www.cse.iitm.ac.in/~miteshk/}{M Khapra},
+\href{http://web.cse.ohio-state.edu/~parthasarathy.2/}{S Parthasarathy} \& \href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran}}
+\sectionsep
+
+
+\runsubsection{\href{https://dl.acm.org/doi/10.1145/3447548.3467443}{Semi-Supervised Deep Learning for Multiplex Networks}\\} 
+\descript{ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD'21} 
+\location{A Mitra, \underline{P Vijayan}, R Sanam, D Goswami, 
+\href{http://web.cse.ohio-state.edu/~parthasarathy.2/}{S Parthasarathy} \& \href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran}}
+\sectionsep
+
+\runsubsection{\href{https://ieeexplore.ieee.org/document/9414015}{EGO-GNNs: Exploiting EGO Structures in Graph Neural Networks}\\}
+\descript{International Conference on Acoustics, Speech, and Signal Processing, ICASSP'21}
+\location{D Sandfelder, \underline{P Vijayan} and \href{https://williamleif.github.io/}{W L Hamilton}}
+\sectionsep
+
+\runsubsection{\href{https://dl.acm.org/doi/pdf/10.5555/3398761.3398831}{Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling}} 
+\location{[Best Paper  Nominee]}
+\descript{International Conference on Autonomous Agents and Multiagent Systems, AAMAS'20} 
+\location{H Kamarthi,
+\underline{P Vijayan}, \href{https://bryanwilder.github.io/}{Bryan Wilder}, 
+\href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran} \& 
+\href{https://www.seas.harvard.edu/directory/mtambe}{M Tambe}
+}
+\sectionsep
+
+\runsubsection{\href{https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.55}{A Unified Non-Negative Matrix Factorization Framework for Semi-Supervised Learning on Graphs}\\} 
+\descript{SIAM International Conference on Data Mining, SDM'20} 
+\location{A Mitra, \underline{P Vijayan}, 
+\href{http://web.cse.ohio-state.edu/~parthasarathy.2/}{S Parthasarathy} \& \href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran}}
+\sectionsep
+
+\runsubsection{\href{https://ras.papercept.net/proceedings/IROS20/1326.pdf}{Understanding Dynamic Scenes using Graph Convolution Networks}\\}
+\descript{International Conference on Intelligent Robots and Systems, IROS'20}
+\location{S Mylavarapu, M Sandhu, \underline{P  Vijayan}, M Krishna, B Ravindran, and A Namboodiri}
+\sectionsep
+
+% \runsubsection{\href{https://arxiv.org/pdf/2002.00786.pdf}{Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks}}
+% \descript{IEEE Intelligent Vehicles Symposium, IV'20}
+% \location{S Mylavarapu, M Sandhu, \underline{P Vijayan}, M Krishna, B Ravindran, and A Namboodiri}
+% \sectionsep
+
+\runsubsection{\href{https://aclanthology.org/2020.nlp4convai-1.2.pdf}{On Incorporating Structural Information to Improve Dialogue Response Generation}}
+\descript{NLP for Conversational AI workshop, ACL'20}
+\location{N Moghe, \underline{P Vijayan}, B Ravindran, and M Khapra}
+\sectionsep
+
+\runsubsection{\href{https://arxiv.org/abs/1805.12528}{F-GCN: Fusion Graph Convolutional Networks}} \\
+\descript{Workshop on Mining and Learning with Graphs, KDD 2018}
+\location{\underline{P Vijayan}, Y Chandak, \href{https://www.cse.iitm.ac.in/~miteshk/}{M Khapra},
+\href{http://web.cse.ohio-state.edu/~parthasarathy.2/}{S Parthasarathy} \& \href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran}}
+\sectionsep
+
+% \runsubsection{\href{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6921634}{Multi-label Collective Classification in Multi-attribute Multi-relational Network Data}\\}
+% \descript{IEEE/ACM Advances in Social Network Analysis and Mining, ASONAM'14}
+% \location{\underline{P Vijayan},  \href{https://in.linkedin.com/in/shivashankar-subramanian-95916714}{S Subramanian \&} \href{http://www.cse.iitm.ac.in/~ravi/}{B Ravindran}}
+% \sectionsep
+
+% \runsubsection{Grid Scheduling using Improved Particle Swarm Optimization with Digital Pheromones}
+% \descript{| \href{http://www.ijser.org/onlineResearchPaperViewer.aspx?Grid-Scheduling-using-Improved-Particle-Swarm-Optimization-with-Digital-Pheromones.pdf}{IJSER 2012 Proceedings }}
+% \location{\href{https://ca.linkedin.com/in/sarath-chandar-86984238}{A P S Chandar}, \underline{P Vijayan} \&  \href{https://in.linkedin.com/in/dr-doreen-robin-88b31026}{D Robin}}
+% \sectionsep
+\section{Patents}
+\runsubsection{User categorization in communications networks}
+\descript{| \href{https://patents.google.com/patent/US20150236910}{United States 20150236910} }
+\location{Work done during internship at Ericsson R\&D | Collaborator: \href{https://in.linkedin.com/in/shivashankar-subramanian-95916714}{Shivashankar Subramanian} }
+
+\section{Awards and Recognition}
+
+\runsubsection{Outstanding Reviewer:}
+\location{ICLR'21, NeurIPS'26}
+% \runsubsection{Graduate Excellence Award}
+% \descript{| 2020,2021,2022}
+% \location{McGill School of Computer Science Ph.D. Fellowship}
+\runsubsection{\href{https://www.svce.ac.in/departments/cse/stu_ach_prev.php}{Panickker Award}}
+\descript{| 2011-2012}
+\location{Best pre-final year undergraduate across all departments.}
+
+% \section{Programming}
+% \begin{minipage}[t]{.6\textwidth}
+% \subsection{Languages}
+% \location{Python, MATLAB, Java and C}
+% \location{Intermediate: C++ \textbullet{} Java \textbullet{} C }
+% \sectionsep
+% \end{minipage}
+% \begin{minipage}[t]{.35\textwidth}
+% \subsection{Libraries}
+% \location{TensorFlow, Pytorch}
+% \end{minipage}
+
+% \section{Courses:}
+% \begin{minipage}[t]{.49\textwidth}
+% % \subsection{Languages}
+% \descript{COMP767: Probabilistic Graphical Models}
+% \descript{COMP550: Natural Language Processing}
+% \descript{CS5011: Introduction to Machine learning}
+% \descript{CS7015: Deep learning}
+% \sectionsep
+% \end{minipage}
+% \begin{minipage}[t]{.5\textwidth}
+% % \subsection{Libraries}
+% \descript{CS6310: Artificial Neural Networks}
+% \descript{CS6012: Social Network Analysis}
+% \descript{CH5440: Multivariate Data Analysis}
+% \descript{CS6720: Data mining}
+% \end{minipage}
+
+\section{Talks, Conferences \& Summer schools}
+\runsubsection{Invited talks}
+\descript{Transition from Machine Learning -> Deep Learning (MLDLTISP'18), S.V.C.E 
+| 2018}
+\descript{\hspace{3.1cm} 3\textsuperscript{rd} RBCDSAI Workshop on Recent Progress in Data Science and AI | 2018}
+\descript{\hspace{3.1cm} Think like a Startup series, IITM Incubation cell | 2016}
+
+% \runsubsection{Oral Presentation}
+% \descript{International Conference on Emerging Trends, ICET | 2012}
+\runsubsection{Presentations}
+\descript{RL Beyond Rewards Workshop, RLC'26}
+\descript{\hspace{3.4cm} Representation Learning Workshop, NeurIPS'19}
+\descript{\hspace{3.4cm} Eighth Statistical Relational learning Workshop, IJCAI 2018}
+\descript{\hspace{3.4cm} RBC-DSAI Workshop on Recent Progress in Data Science \& AI, IITM | 2017}
+\runsubsection{CIFAR DL and RL summer school, Mila}
+\descript{| 2021}
+\runsubsection{Deep learning summer school, IIIT-H}
+\descript{| 2016}
+\runsubsection{Microsoft Summer school on Machine learning, IISC}
+\descript{| 2015}
+
+\section{Teaching}
+\runsubsection{Teaching Assistant:}
+
+% \vspace{0.1cm}
+\noindent
+\begin{minipage}[t]{0.49\textwidth}
+\descript{INF8953DE: Reinforcement Learning}
+\descript{COMP596: Network Science}
+\descript{COMP598: Introduction to Data Science}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.49\textwidth}
+\descript{COMP767: Graph Representation Learning}
+\descript{COMP202: Foundations of Programming}
+\descript{ACM India Summer School on Data Science (2018)}
+\end{minipage}
+% \descript{|  | National level}
+% \location{TA for 5 lab sessions on Machine learning}
+% \runsubsection{Communication skills Mentor}
+% \descript{| 2010-2012 | Institute level}
+% \location{Designed and conducted interactive English improvement sessions for students from rural background}
+% \runsubsection{C-Training Tutor }
+% \descript{| 2011-2012 | | Institite level}
+% \location{Taught C Programming for M.C.A and junior B.E  students  }
+
+\section{MISC}
+\runsubsection{Program Committee Member: }\descript{EMNLP'21, SDM'21, SDM'23, GCLR'21, NAACL-HLT'21, ADCOM'18, CoDs-COMAD'18}
+\runsubsection{Reviewer:}\descript{NeurIPS'26, ICLR: 2020-2023, LoG'23, NAACL'21, ICLR'20, ACL'19, DMKD and JDSA}
+% \runsubsection{Sub-reviewer:}\descript{ AAAI'17, CODS'17 \& DSAA'15}
+\runsubsection{\href{https://www.svce.ac.in/departments/cse/stu_ach_prev.php}{First Runner up - IBM The Great Mind Tech Quiz}}
+% \runsubsection{Semi-Finalist - IITB Eureka's B-Plan Competition, Top 25/6K+ team }\descript{| 2013 | National level}
+\descript{| 2011 | Regional }
+\runsubsection{Chairperson | SVCE-ACM Student Chapter }
+\descript{| 2012}
+
+% \runsubsection{\href{https://www.svce.ac.in/departments/cse/stu_ach_prev.php}{Winner | My Idea Program Institute level}}
+% \descript{| 2011 | Institute level }
+% \runsubsection{Oral \& Poster Presentation }
+% \descript{| 2012 | My Idea Program Regionals }
+% \runsubsection{\href{https://www.svce.ac.in/departments/cse/stu_ach_prev.php}{Semi-finalist | Innovation day }}
+% \descript{| 2011 | Institute level  }
+% \runsubsection{National Social Service (NSS) and Rotoract Member }
+% \descript{| 2009-2013 }
+% \location{Actively participated in social welfare activities for the betterment of the rural area in Kanchipuram district}
+
+
+% \section{Offices held}
+% \runsubsection{Chairperson | SVCE-ACM Student Chapter }
+% \descript{| 2012-2013}
+% \runsubsection{General Secretary | Association of Computer Engineers (ACE) }
+% \descript{| 2011-2012}
+% \runsubsection{Research committee head | SVCE-ACM }
+% \descript{| 2011-2012}
+% \runsubsection{Library committee representative  }
+% \descript{| 2011-2012}
+% \runsubsection{Executive Member | ACE }
+% \descript{| 2010-2011}
+% \runsubsection{Class Committee Member}
+% \descript{| 2010-2011}
+% \runsubsection{Class Representative}
+% \descript{| 2009-2010}
+% \runsubsection{Boys hostel representative}
+% \descript{| 2009-2010}
+
+% \section{Events Organized}
+% \runsubsection{Student Co-coordinator | National Level Programming Contest, NLPC}
+% \descript{| 2012}
+% \location{First of its kind from our college which saw a participation of 491 students.} % This event was part of our then newly launched SVCE-ACM Student Chapter}
+% \runsubsection{Organizer | Asia Level Programming Contest, NLPC}
+% \descript{| 2012}
+% \location{It was an online contest, where other student chapters from Asian countries participated}
+% \runsubsection{Coordinator | INTERRUPT, CS DEPT Symposium}
+% \descript{| 2012}
+% \location{Well organized with interesting set of events which attracted 4 times more crowd than that of the previous year}
+% \runsubsection{Organized lectures:}
+% \descript{| 2009-2012}
+% \location{Membrane computing workshop, various guest lectures on Web 2.0, TCS, FGPA, Android, .etc}
+% \runsubsection{Organized C-Training classes for CS and M.C.A Dept.}
+% \descript{| 2012}
+% \runsubsection{Organized Coding Contest}
+% \descript{| 2012}
+
+% \section{Certifications \& Tests}
+% \runsubsection{ TOEFL: Test of English as a Foreign Language}
+% \descript{| 106/120}
+% \runsubsection{GATE: Graduate Aptitude Test in Engineering}
+% \descript{| 97.433 percentile}
+% \runsubsection{Coursera: Andrew Ng's Machine learning course [100\%]}
+% \descript{| 2013}
+% \runsubsection{IBM Certified Database Associate, DB2 9 Fundamentals [85\% - \#1 in college]}
+% \descript{| 2011}
+% \runsubsection{IBM Certified Deployment Professional, Tivoli Directory Server v6.3 [90\%]}
+% \descript{| 2012}
+% \runsubsection{Cognizant Certified Student}
+% \descript{| 2012}
+
+% \section{Selected Research Projects}
+% \runsubsection{Is larger (multi-hop) neighborhood information useful ?}
+% \descript{| Jan-May'15 }
+% \begin{tightemize}
+%     \item \location{Existing works for relational learning typically dismissed the use of higher-order neighborhood information}
+%     \item \location{Showed that higher-order information such as nodes' structural roles and community information were useful in achieving improved performance for protein function prediction.}
+% \end{tightemize}
+
+% \runsubsection{How to reduce the hyperparameters for graph embedding models ?}
+% \descript{| Dec'16-Feb'17}
+% \begin{tightemize}
+%     \item \location{Existing Random walk (RW) based methods require numerous hyperparameters to learn node embeddings.}
+%     \item \location{Proposed a Graph Language Model (GLM) with RNNs that learned to predict the shortest path between nodes. }
+%     \item \location{Embeddings learned with GLM incorporated depth information and avoided hyper-params required for biasing the RW. The proposed method fared similar to or better than existing models.}
+% \end{tightemize}
+
+% \runsubsection{Gated Attention Propagation (GAP) Kernels}
+% \descript{| June'17-Aug'17 | TEAM: Yash Chandak}
+% \begin{tightemize}
+%     \item \location{Existing models assumed the network to be homophilous and treated the node, and it is neighbors similarly}
+%     \item \location{ We proposed mechanisms to learn a gating function to combine node and neighborhood information and as well learn an attention function to reweigh the edge weights.}
+% \end{tightemize}
+
+% \runsubsection{ Fashion attribute detection and similar clothing retrieval.}
+% \descript{| July-Dec'15}
+% \begin{tightemize}
+%     \item \location{Used ConvNets to classify attributes of images.}
+%     \item \location{Build a KD tree based retrieval system to find similar clothes in real-time.}
+% \end{tightemize}
+
+% \runsubsection{ A Hybrid filtering approach for Recommender systems using Clustering for chains. | UG Final year project}
+% \descript{| Nov'12-May'13 }
+% \begin{tightemize}
+%     \item \location{
+%     % Unlike typical recommendation system that used ratings instead of rankings. 
+%     Built a ranking based recommendation system that clustered users' ranking (POSets/Chains)}
+%     \item \location{Proposed a social network based content boosted Collaborative filtering (CF) model using clustering for chains.}
+%     \item \location{Built a music recommendation system for my classmates. The proposed approach proved to be better than the conventional Clustering for chains based CF by 25\%.}
+% \end{tightemize}
+
+% \runsubsection{ Verification of Asynchronous Behavior of Spiking Neural P (SNP) system using Petri Nets}
+% \descript{| Sep'12-Nov'12 | TEAM: Sarath Chandar AP }
+% \begin{tightemize}
+%     \item \location{Dynamic Petri Nets (DPNs), unlike SNP systems, were well studied, concurrent mathematical models.}
+%     \item \location{In order to take advantage of the established tools for DPNs to study SNP systems, we proposed an algorithm for converting SNP systems into Dynamic Petri Nets.}
+% \end{tightemize}
+
+\end{document}  

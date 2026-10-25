@@ -1,3 +1,6 @@
-theme: jekyll-theme-cayman
 title: Priyesh Vijayan
-description: Ph.D. Candidate @ McGill University & MILA
+description: Reinforcement learning and graph representation learning research.
+url: https://priyeshv.github.io
+baseurl: ""
+markdown: kramdown
+exclude: [README.md, CONTENT-NOTES.md, reference, scripts, Gemfile, Gemfile.lock, preview, vendor]
