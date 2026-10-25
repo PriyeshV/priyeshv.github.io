@@ -28,3 +28,23 @@ Prepared 25 October 2026 from the attached website Markdown, latest LaTeX CV, ea
 ## Check before publishing
 
 Confirm current affiliation and contact preferences, final NeurIPS paper/code links when available, exact reviewer-award wording, thesis filename case, and historical links. Update service years only from a confirmed list. These items do not prevent local use of the supplied site.
+
+## Grouped archive update
+
+The user-supplied revised publication JSON is the source for this update. Your name is highlighted through presentation templates, preserving raw author strings. The following workshop records now appear within the corresponding published paper: KDD 2021 Deep Learning Day under TMLR 2022; EurNLP 2019 extended abstract under ACL 2020 dialogue paper; NeurIPS 2019 social-network discovery workshop under AAMAS 2020; StarAI 2018 HOPF workshop under the 2022 graph propagation paper. The latter is labeled explicitly as earlier HOPF work. Original titles, years, author lists, IDs, and links are preserved. The RLC 2026 spotlight is rendered in the same structured format beneath NeurIPS 2026.
+
+The 2018 NMF workshop record and 2019 consolidation preprint remain separate because an exact version relationship is not established by the supplied records; shared authors, topic, or repository alone do not establish that two publications are the same paper. The archive now has 15 primary entries. The primary publication year controls year filtering; free-text search includes workshop details.
+
+## Version 3: Scholar reconciliation and compact workshop mentions
+
+Compared all 18 entries shown on https://scholar.google.com/citations?user=6_MJikoAAAAJ&hl=en&pagesize=100 on 25 October 2026. Every row is now represented in the archive, with five additions to the previous 15-entry list. More entries than Scholar are retained because historical workshop/preprint material from the supplied sources remains included. No citation counts were copied.
+
+New records and verification sources:
+
+- p20: Generative Active Learning for the Search of Small-molecule Protein Binders (2024), arXiv preprint. Complete 34-author list and author order from https://arxiv.org/abs/2405.01616 .
+- p21: Multi-label Collective Classification in Multi-attribute Multi-relational Network Data, ASONAM 2014, pp. 509–514. Verified title, authors and DOI against https://wsai.iitm.ac.in/publications/multi-label-collective-classification-in-multi-attribute/ and the author PDF https://dsai.iitm.ac.in/~ravi/papers/Priyesh_ASONAM_2014.pdf .
+- p22: Grid Scheduling using Improved Particle Swarm Optimization with Digital Pheromones, IJSER 3(6), 1–6 (2012). Verified from co-author-hosted paper https://www.sarathchandar.in/paper/grid_scheduling_sarath.pdf . Author names use normalized initials matching the Scholar record; the original paper prints SarathChandar A P, Priyesh V, Doreen Hephzibah Miriam D.
+- p23: Incremental Knowledge Graphs, course-project report (2019). Scholar lists only Priyesh Vijayan and no year, but the original report lists Ashita Diwan, Nishant Mishra, Priyesh Vijayan, in that order: https://mnishant2.github.io/files/transe.pdf . The co-author project page https://mnishant2.github.io/project/transe/ supplies 15 December 2019 and explicitly identifies it as a COMP 550 course project. The archive follows the report's author order and the project's year.
+- p24: User categorization in communications networks, patent application US20150236910A1, published 20 August 2015. Inventor names and date from https://patents.google.com/patent/US20150236910A1/en . This was previously mentioned only on the background page; it is now also in the archive, explicitly labeled as an application.
+
+Workshop rendering now shows only venue names. All five grouped occurrences retain their reference metadata but do not display labels, repeated titles, authors, PDFs, or other links. This supersedes the earlier rendering descriptions above. No main NeurIPS 2026 paper link was available in the supplied JSON; it remains empty rather than substituting a workshop PDF. Standalone workshop papers retain their own authors and paper links.

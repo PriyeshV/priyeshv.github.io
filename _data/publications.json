@@ -7,7 +7,7 @@
     "venue": "Fortieth Annual Conference on Neural Information Processing Systems, NeurIPS'26",
     "links": {},
     "topic": "Reinforcement learning",
-    "note": "Accepted at NeurIPS 2026.",
+    "note": "",
     "occurrences": [
       {
         "id": "p1-rlc",
@@ -30,6 +30,18 @@
     "venue": "Inductive Biases in Reinforcement Learning Workshop, RLC 2025",
     "links": {
       "Paper": "https://openreview.net/pdf?id=fO7LZi5rqe"
+    },
+    "topic": "Reinforcement learning",
+    "note": ""
+  },
+  {
+    "id": "p20",
+    "title": "Generative Active Learning for the Search of Small-molecule Protein Binders",
+    "authors": "Maksym Korablyov, Cheng-Hao Liu, Moksh Jain, Almer M. van der Sloot, Eric Jolicoeur, Edward Ruediger, Andrei Cristian Nica, Emmanuel Bengio, Kostiantyn Lapchevskyi, Daniel St-Cyr, Doris Alexandra Schuetz, Victor Ion Butoi, Jarrid Rector-Brooks, Simon Blackburn, Leo Feng, Hadi Nekoei, SaiKrishna Gottipati, Priyesh Vijayan, Prateek Gupta, Ladislav Rampášek, Sasikanth Avancha, Pierre-Luc Bacon, William L. Hamilton, Brooks Paige, Sanchit Misra, Stanislaw Kamil Jastrzebski, Bharat Kaul, Doina Precup, José Miguel Hernández-Lobato, Marwin Segler, Michael Bronstein, Anne Marinier, Mike Tyers, Yoshua Bengio",
+    "year": 2024,
+    "venue": "arXiv preprint, arXiv:2405.01616",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2405.01616"
     },
     "topic": "Reinforcement learning",
     "note": ""
@@ -228,6 +240,19 @@
     "note": ""
   },
   {
+    "id": "p23",
+    "title": "Incremental Knowledge Graphs",
+    "authors": "Ashita Diwan, Nishant Mishra, Priyesh Vijayan",
+    "year": 2019,
+    "venue": "Course-project report · COMP 550: Natural Language Processing, McGill University",
+    "links": {
+      "Report": "https://mnishant2.github.io/files/transe.pdf",
+      "Project": "https://mnishant2.github.io/project/transe/"
+    },
+    "topic": "Graph learning",
+    "note": ""
+  },
+  {
     "id": "p17",
     "title": "Learning semi-supervised cluster invariant node representations with NMF",
     "authors": "A Mitra, P Vijayan, S Parthasarathy, and B Ravindran",
@@ -248,6 +273,42 @@
       "Code": "https://github.com/PriyeshV/HOPF"
     },
     "topic": "Graph learning",
+    "note": ""
+  },
+  {
+    "id": "p24",
+    "title": "User categorization in communications networks",
+    "authors": "Subramanian Shivashankar, Priyesh Vijayan",
+    "year": 2015,
+    "venue": "US patent application · US20150236910A1 (published 20 August 2015)",
+    "links": {
+      "Patent application": "https://patents.google.com/patent/US20150236910A1/en"
+    },
+    "topic": "Graph learning",
+    "note": ""
+  },
+  {
+    "id": "p21",
+    "title": "Multi-label Collective Classification in Multi-attribute Multi-relational Network Data",
+    "authors": "P Vijayan, S Subramanian, B Ravindran",
+    "year": 2014,
+    "venue": "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2014), pp. 509–514",
+    "links": {
+      "Paper": "https://doi.org/10.1109/ASONAM.2014.6921634"
+    },
+    "topic": "Graph learning",
+    "note": ""
+  },
+  {
+    "id": "p22",
+    "title": "Grid Scheduling using Improved Particle Swarm Optimization with Digital Pheromones",
+    "authors": "S Chandar, P Vijayan, D Doreen Hephzibah Miriam",
+    "year": 2012,
+    "venue": "International Journal of Scientific & Engineering Research, 3(6), pp. 1–6",
+    "links": {
+      "Paper": "https://www.sarathchandar.in/paper/grid_scheduling_sarath.pdf"
+    },
+    "topic": "Optimization",
     "note": ""
   }
 ]

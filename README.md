@@ -11,7 +11,7 @@ This is a content-led academic site. GitHub Pages builds Jekyll directly, so mai
 - `index.html`: introduction, selected publications, updates, contact.
 - `research.html`: research overview and emerging LLM interests.
 - `projects/`: four detailed research/project pages.
-- `publications.html`: searchable archive of 19 records, including historical workshop and preprint versions. This is not a count of 19 distinct peer-reviewed papers.
+- `publications.html`: searchable archive of 20 grouped records, including historical workshop and preprint versions. This is not a count of 20 distinct peer-reviewed papers.
 - `teaching.html`: two-column teaching list, service, reviewer recognition.
 - `background.html`: education, experience, earlier projects, talks, patent, coursework.
 - `_data/publications.json`: the single publication source, loaded automatically by Jekyll.
@@ -81,7 +81,7 @@ Add an object to `_data/publications.json` in the desired display order. Use a u
 }
 ```
 
-Do not add unavailable links as empty strings. Add the new year and any new topic to the filter options in `publications.html`; change its fallback record count. Update `_includes/selected-publications.html` to change featured IDs. Add an ID to the appropriate `_data/project-*.json` to show it on a project page. All appearances share the same record. Re-run the Python helper only when you want to refresh the standalone preview; Jekyll consumes the data directly.
+Do not add unavailable links as empty strings. The year and topic filters and record count update automatically from the data. Update `_includes/selected-publications.html` to change featured IDs. Add an ID to the appropriate `_data/project-*.json` to show it on a project page. All appearances share the same record. Re-run the Python helper only when you want to refresh the standalone preview; Jekyll consumes the data directly.
 
 ### Other edits
 
@@ -89,4 +89,14 @@ Edit the relevant page's body text while retaining its front matter (`---` block
 
 ## Validation and limitations
 
-The delivery includes a checked static rendering of nine pages, internal-link/anchor and asset checks at both root and project-repository paths, JavaScript syntax validation, and browser inspection of desktop/mobile layout and publication filters. Search returned the single Laplacian record; combined filters displayed the empty state; the Evaluation filter returned three records. The local machine did not have Jekyll installed, so an actual Jekyll build was not run; the GitHub Pages build remains the final deployment check. Some external publishers require browser verification, and historical links have not all been independently validated. See `CONTENT-NOTES.md` for source-specific decisions. No public deployment has been performed.
+The delivery includes a checked static rendering of nine pages, internal-link/anchor and asset checks at both root and project-repository paths, JavaScript syntax validation, and browser inspection of desktop/mobile layout and publication filters. Search returned the single Laplacian record; combined filters displayed the empty state; the Evaluation filter returned two grouped records. The local machine did not have Jekyll installed, so an actual Jekyll build was not run; the GitHub Pages build remains the final deployment check. Some external publishers require browser verification, and historical links have not all been independently validated. See `CONTENT-NOTES.md` for source-specific decisions. No public deployment has been performed.
+
+## Author highlighting and grouped versions
+
+The publication template highlights `P Vijayan` automatically without adding HTML to author data. Equal-contribution asterisks and author order are preserved. Add earlier workshop versions under a publication's `occurrences` array, retaining each version's `id`, `label`, `title`, `authors`, `year`, `venue`, and `links`. Only the workshop venue is displayed beneath the main paper; version labels, repeated titles/authors, and workshop links are omitted. Full earlier metadata remains in the data file for reference. Filtering uses the main publication year; searching also matches the nested workshop metadata. Standalone workshop papers and the differently titled 2019 preprint remain separate.
+
+## Version 3 update
+
+Workshop occurrences render only their venue names. They do not render labels, titles, authors, PDFs, or code links, even when such metadata is retained in JSON. Main-paper links and standalone workshop-paper links remain available. The archive was reconciled against all 18 rows visible on the linked Google Scholar profile on 25 October 2026. Five missing entries were added: the 2024 protein-binder preprint, ASONAM 2014, IJSER 2012, the Incremental Knowledge Graphs course report, and the 2015 patent application. The archive also retains earlier preprint/workshop entries absent from the current Scholar listing. This produces 20 primary records, not 20 peer-reviewed papers.
+
+For an existing v2 site, replace `_data/publications.json`, `_includes/publication.html`, `publications.html`, and `_data/project-*.json`. Replace `scripts/preview.py` if using the Python preview. No CSS change is needed for this update. Documentation is updated in `README.md` and `CONTENT-NOTES.md`.

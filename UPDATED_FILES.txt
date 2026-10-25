@@ -1,0 +1,14 @@
+Version 3 update from v2
+
+Copy the included files into the matching paths in your Jekyll repository. The README and content notes are documentation. scripts/preview.py is only needed for the optional Python preview. Existing CSS from v2 remains suitable.
+
+_data/publications.json
+_includes/publication.html
+publications.html
+scripts/preview.py
+README.md
+CONTENT-NOTES.md
+_data/project-evaluation.json
+_data/project-graphs.json
+_data/project-rl.json
+_data/project-structured-applications.json

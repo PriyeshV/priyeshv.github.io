@@ -14,10 +14,16 @@ base = args.baseurl.rstrip('/')
 OUT = ROOT / 'preview'
 OUT.mkdir(exist_ok=True)
 publications = json.loads((ROOT / '_data/publications.json').read_text())
+def authors(value):
+    return escape(value).replace('Priyesh Vijayan', '<strong class="author-self">Priyesh Vijayan</strong>').replace('P Vijayan', '<strong class="author-self">P Vijayan</strong>')
 def publication(p):
     links = ''.join(f'<a href="{escape(v, quote=True)}">{escape(k)} ↗</a>' for k,v in p['links'].items())
     note = f'<p class="pub-note">{escape(p["note"])}</p>' if p['note'] else ''
-    return f'<article class="pub" id="{p["id"]}" data-year="{p["year"]}" data-topic="{escape(p["topic"], quote=True)}"><div class="pub-year">{p["year"]}</div><div><h3>{escape(p["title"])}</h3><p class="authors">{escape(p["authors"])}</p><p class="venue">{escape(p["venue"])}</p><div class="pub-links">{links}</div>{note}</div></article>'
+    versions = ''
+    for v in p.get('occurrences', []):
+        versions += f'<p class="venue occurrence" id="{v["id"]}">{escape(v["venue"])}</p>'
+    if versions: versions = f'<div class="occurrences" aria-label="Workshop presentations">{versions}</div>'
+    return f'<article class="pub" id="{p["id"]}" data-year="{p["year"]}" data-topic="{escape(p["topic"], quote=True)}"><div class="pub-year">{p["year"]}</div><div><h3>{escape(p["title"])}</h3><p class="authors">{authors(p["authors"])}</p><p class="venue">{escape(p["venue"])}</p><div class="pub-links">{links}</div>{note}{versions}</div></article>'
 def include(match):
     name = match[1]
     ids = None
@@ -30,6 +36,9 @@ for src in list(ROOT.glob('*.html')) + list((ROOT/'projects').glob('*.html')):
     for line in front.strip().splitlines():
         key, value = line.split(':',1)
         metadata[key] = value.strip().strip('"')
+    body = re.sub(r"{% assign topics =.*?{% endfor %}", ''.join(f'<option>{escape(t)}</option>' for t in sorted({p['topic'] for p in publications})), body)
+    body = re.sub(r"{% assign years =.*?{% endfor %}", ''.join(f'<option>{y}</option>' for y in sorted({p['year'] for p in publications}, reverse=True)), body)
+    body = body.replace('{{ site.data.publications | size }}', str(len(publications)))
     body = re.sub(r'{% include ([a-z-]+)\.html %}', include, body)
     rendered = (ROOT / '_layouts/default.html').read_text().replace('{{ content }}',body)
     for key in ['title','description']:
