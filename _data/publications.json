@@ -5,11 +5,22 @@
     "authors": "P Vijayan, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz",
     "year": 2026,
     "venue": "Fortieth Annual Conference on Neural Information Processing Systems, NeurIPS'26",
-    "links": {
-      "Workshop paper": "https://openreview.net/pdf?id=Bn5TzXbC6s"
-    },
+    "links": {},
     "topic": "Reinforcement learning",
-    "note": "Accepted at NeurIPS 2026; also a spotlight at the Reinforcement Learning Beyond Rewards Workshop, RLC 2026. The linked PDF is the workshop version."
+    "note": "Accepted at NeurIPS 2026.",
+    "occurrences": [
+      {
+        "id": "p1-rlc",
+        "label": "Workshop spotlight",
+        "title": "Addressing Sparse-Rewards in RL with Scalable Hierarchical Novel Eigen Options",
+        "authors": "P Vijayan, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz",
+        "year": 2026,
+        "venue": "Reinforcement Learning Beyond Rewards Workshop, RLC 2026",
+        "links": {
+          "Workshop paper": "https://openreview.net/pdf?id=Bn5TzXbC6s"
+        }
+      }
+    ]
   },
   {
     "id": "p2",
@@ -47,7 +58,18 @@
       "Code": "https://github.com/PriyeshV/NRL_Benchmark"
     },
     "topic": "Evaluation",
-    "note": "* First two authors contributed equally."
+    "note": "* First two authors contributed equally.",
+    "occurrences": [
+      {
+        "id": "p7",
+        "title": "Unsupervised Network Representation Learning and the Illusion of Progress",
+        "authors": "S Gurukar*, P Vijayan*, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel",
+        "year": 2021,
+        "venue": "KDD deep learning day, KDD'21",
+        "links": {},
+        "label": "Earlier workshop presentation"
+      }
+    ]
   },
   {
     "id": "p5",
@@ -60,7 +82,21 @@
       "Code": "https://github.com/PriyeshV/HOPF"
     },
     "topic": "Graph learning",
-    "note": ""
+    "note": "",
+    "occurrences": [
+      {
+        "id": "p18",
+        "title": "HOPF: Higher Order Propagation Framework for Deep Collective Classification",
+        "authors": "P Vijayan, Y Chandak, M Khapra, S Parthasarathy, and B Ravindran",
+        "year": 2018,
+        "venue": "Statistical relational learning for AI (StarAI), IJCAI'18",
+        "links": {
+          "Full Paper": "https://arxiv.org/abs/1805.12421",
+          "Code": "https://github.com/PriyeshV/HOPF"
+        },
+        "label": "Earlier HOPF workshop paper"
+      }
+    ]
   },
   {
     "id": "p6",
@@ -73,16 +109,6 @@
       "Code": "https://github.com/anasuamitra/ssdcm"
     },
     "topic": "Graph learning",
-    "note": ""
-  },
-  {
-    "id": "p7",
-    "title": "Unsupervised Network Representation Learning and the Illusion of Progress",
-    "authors": "S Gurukar*, P Vijayan*, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra and V Patel",
-    "year": 2021,
-    "venue": "KDD deep learning day, KDD'21",
-    "links": {},
-    "topic": "Evaluation",
     "note": ""
   },
   {
@@ -122,7 +148,20 @@
       "Code": "https://github.com/nikitacs16/horovod_gcn_pointer_generator"
     },
     "topic": "Language & structure",
-    "note": ""
+    "note": "",
+    "occurrences": [
+      {
+        "id": "p14",
+        "title": "On Incorporating Structural Information to Improve Dialogue Response Generation",
+        "authors": "N Moghe, P Vijayan, B Ravindran, and M Khapra",
+        "year": 2019,
+        "venue": "EurNLP'19",
+        "links": {
+          "Poster": "https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf"
+        },
+        "label": "Earlier extended abstract"
+      }
+    ]
   },
   {
     "id": "p11",
@@ -135,7 +174,18 @@
       "Code": "https://github.com/kage08/graph_sample_rl"
     },
     "topic": "Reinforcement learning",
-    "note": "Nominated for Best Paper Award."
+    "note": "Nominated for Best Paper Award.",
+    "occurrences": [
+      {
+        "id": "p15",
+        "title": "Learning policies for Social network discovery with Reinforcement learning",
+        "authors": "H Kamarthi, P Vijayan, B Wilder, B Ravindran, M Tambe",
+        "year": 2019,
+        "venue": "Graph Representation Learning Workshop, NeurIPS'19",
+        "links": {},
+        "label": "Earlier workshop presentation"
+      }
+    ]
   },
   {
     "id": "p12",
@@ -165,28 +215,6 @@
     "note": ""
   },
   {
-    "id": "p14",
-    "title": "On Incorporating Structural Information to Improve Dialogue Response Generation",
-    "authors": "N Moghe, P Vijayan, B Ravindran, and M Khapra",
-    "year": 2019,
-    "venue": "EurNLP'19",
-    "links": {
-      "Poster": "https://nikitamoghe.github.io/nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf"
-    },
-    "topic": "Language & structure",
-    "note": ""
-  },
-  {
-    "id": "p15",
-    "title": "Learning policies for Social network discovery with Reinforcement learning",
-    "authors": "H Kamarthi, P Vijayan, B Wilder, B Ravindran, M Tambe",
-    "year": 2019,
-    "venue": "Graph Representation Learning Workshop, NeurIPS'19",
-    "links": {},
-    "topic": "Reinforcement learning",
-    "note": ""
-  },
-  {
     "id": "p16",
     "title": "Network Representation Learning: Consolidation and Renewed Bearing",
     "authors": "S Gurukar*, A Srinivasan*, P Vijayan*, G Bajaj, C Cai, M Keymanesh, S Kumar, P Maneriker, A Mitra, V Patel, B Ravindran, S Parthasarathy",
@@ -206,19 +234,6 @@
     "year": 2018,
     "venue": "Relational Learning Workshop (R2L), NeurIPS'18",
     "links": {},
-    "topic": "Graph learning",
-    "note": ""
-  },
-  {
-    "id": "p18",
-    "title": "HOPF: Higher Order Propagation Framework for Deep Collective Classification",
-    "authors": "P Vijayan, Y Chandak, M Khapra, S Parthasarathy, and B Ravindran",
-    "year": 2018,
-    "venue": "Statistical relational learning for AI (StarAI), IJCAI'18",
-    "links": {
-      "Full Paper": "https://arxiv.org/abs/1805.12421",
-      "Code": "https://github.com/PriyeshV/HOPF"
-    },
     "topic": "Graph learning",
     "note": ""
   },
