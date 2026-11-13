@@ -5,7 +5,10 @@
     "authors": "P Vijayan, E C Gauthier, M Reymond, S Chandar, D Precup, and I P Schwarz",
     "year": 2026,
     "venue": "Fortieth Annual Conference on Neural Information Processing Systems, NeurIPS'26",
-    "links": {},
+    "links": {
+      "Paper": "https://neurips.cc/virtual/2026/loc/sydney/poster/150071",
+      "Code": "https://github.com/PriyeshV/SHNEO"
+    },
     "topic": "Reinforcement learning",
     "note": "",
     "occurrences": [
